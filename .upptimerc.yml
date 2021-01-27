@@ -22,11 +22,11 @@ sites:
     url: $URL_SYNCTING_MERZ_NIMBUS_TM
   - name: Syncting-merz-nimbus-bi
     url: $URL_SYNCTING_MERZ_NIMBUS_BI
-  -name: MCServer_jo
+  - name: MCServer_jo
     url: $URL_MCSERVER_JO
-  -name: MCServer_si
+  - name: MCServer_si
     url: $URL_MCSERVER_SI
-  -name: MCServer_ga
+  - name: MCServer_ga
     url: $URL_MCSERVER_GA
 
 status-website:
