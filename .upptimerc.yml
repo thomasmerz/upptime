@@ -18,6 +18,8 @@ sites:
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
   - name: Syncthing-hetzner-cloudserver-FI
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
+  - name: Syncthing-contabo-mo
+    url: $URL_SYNCTHING_CONTABO_MO
   - name: Syncting-merz-nimbus-tm
     url: $URL_SYNCTING_MERZ_NIMBUS_TM
   - name: Syncting-merz-nimbus-bi
