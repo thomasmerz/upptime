@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 768,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "time": 790,
+    "timeDay": 790,
+    "timeWeek": 790,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 592,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "time": 616,
+    "timeDay": 616,
+    "timeWeek": 616,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portainer-fi",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 22
+      "2021-01-27": 24
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 1127,
-    "timeWeek": 1127,
-    "timeMonth": 1127,
-    "timeYear": 1127,
+    "time": 1124,
+    "timeDay": 1124,
+    "timeWeek": 1124,
+    "timeMonth": 1124,
+    "timeYear": 1124,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1415,
-    "timeDay": 1415,
-    "timeWeek": 1415,
-    "timeMonth": 1415,
-    "timeYear": 1415,
+    "time": 1466,
+    "timeDay": 1466,
+    "timeWeek": 1466,
+    "timeMonth": 1466,
+    "timeYear": 1466,
     "dailyMinutesDown": {}
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "syncthing-hetzner-cloudserver-de",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 22
+      "2021-01-27": 24
     }
   },
   {
@@ -117,18 +117,38 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "syncthing-hetzner-cloudserver-fi",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 22
+      "2021-01-27": 24
+    }
+  },
+  {
+    "name": "Syncthing-contabo-mo",
+    "url": "$URL_SYNCTHING_CONTABO_MO",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "syncthing-contabo-mo",
+    "status": "down",
+    "uptime": "6.04%",
+    "uptimeDay": "6.04%",
+    "uptimeWeek": "6.04%",
+    "uptimeMonth": "6.04%",
+    "uptimeYear": "6.04%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-01-27": 0
     }
   },
   {
@@ -137,18 +157,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "syncting-merz-nimbus-tm",
     "status": "down",
-    "uptime": "4.58%",
-    "uptimeDay": "4.58%",
-    "uptimeWeek": "4.58%",
-    "uptimeMonth": "4.58%",
-    "uptimeYear": "4.58%",
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 1
+      "2021-01-27": 3
     }
   },
   {
@@ -157,18 +177,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "syncting-merz-nimbus-bi",
     "status": "down",
-    "uptime": "4.29%",
-    "uptimeDay": "4.29%",
-    "uptimeWeek": "4.29%",
-    "uptimeMonth": "4.29%",
-    "uptimeYear": "4.29%",
+    "uptime": "1.16%",
+    "uptimeDay": "1.16%",
+    "uptimeWeek": "1.16%",
+    "uptimeMonth": "1.16%",
+    "uptimeYear": "1.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 1
+      "2021-01-27": 3
     }
   },
   {
@@ -177,18 +197,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mc-server-jo",
     "status": "down",
-    "uptime": "6.67%",
-    "uptimeDay": "6.67%",
-    "uptimeWeek": "6.67%",
-    "uptimeMonth": "6.67%",
-    "uptimeYear": "6.67%",
+    "uptime": "1.66%",
+    "uptimeDay": "1.66%",
+    "uptimeWeek": "1.66%",
+    "uptimeMonth": "1.66%",
+    "uptimeYear": "1.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 1
+      "2021-01-27": 3
     }
   },
   {
@@ -197,18 +217,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mc-server-si",
     "status": "down",
-    "uptime": "6.48%",
-    "uptimeDay": "6.48%",
-    "uptimeWeek": "6.48%",
-    "uptimeMonth": "6.48%",
-    "uptimeYear": "6.48%",
+    "uptime": "1.54%",
+    "uptimeDay": "1.54%",
+    "uptimeWeek": "1.54%",
+    "uptimeMonth": "1.54%",
+    "uptimeYear": "1.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 1
+      "2021-01-27": 3
     }
   },
   {
@@ -217,18 +237,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mc-server-ga",
     "status": "down",
-    "uptime": "6.23%",
-    "uptimeDay": "6.23%",
-    "uptimeWeek": "6.23%",
-    "uptimeMonth": "6.23%",
-    "uptimeYear": "6.23%",
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-27": 0
+      "2021-01-27": 3
     }
   }
 ]
