@@ -1,7 +1,7 @@
-url: http://116.203.44.52:33080/admin/
+url: $URL_PIHOLE_DE
 status: up
 code: 200
-responseTime: 1071
-lastUpdated: 2021-01-27T23:05:44.957Z
+responseTime: 1182
+lastUpdated: 2021-01-27T23:27:23.170Z
 startTime: Wed Jan 27 2021 23:05:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
