@@ -1,11 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: thomasmerz # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Nextcloud
     url: https://nextwurz.mooo.com
+  - name: Portainer-DE
+    url: https://nextwurz.mooo.com:9443  
+  - name: Portainer-FI
+    url: https://merz-vpn.mooo.com:9443  
+  - name: Pihole-DE
+    url: http://116.203.44.52:33080/admin/
+  - name: Pihole-FI
+    url: http://135.181.93.175:33080/admin/
+  - name: Syncthing-hetzner-cloudserver-DE
+    url: https://116.203.44.52:28384/
+  - name: Syncthing-hetzner-cloudserver-FI
+    url: https://135.181.93.175:38384/
+  - name: Synchting-merz-nimbus-tm
+    url: https://merz-nimbus.mooo.com:38384/
+  - name: Synchting-merz-nimbus-bi
+    url: https://merz-nimbus.mooo.com:38385/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
