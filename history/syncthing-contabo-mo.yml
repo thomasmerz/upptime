@@ -1,7 +1,7 @@
 url: $URL_SYNCTHING_CONTABO_MO
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-01-27T23:29:50.384Z
+code: 401
+responseTime: 625
+lastUpdated: 2021-01-27T23:37:57.474Z
 startTime: Wed Jan 27 2021 23:29:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
