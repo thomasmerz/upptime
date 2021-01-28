@@ -94,7 +94,7 @@ status-website:
 # https://upptime.js.org/docs/configuration#ci-schedule
 workflowSchedule:
   graphs: "*/5 * * * *"
-  responseTime: "0 23 * * *"
+  responseTime: "*/5 * * * *"
   staticSite: "*/5 * * * *"
   summary: "*/5 * * * *"
   updateTemplate: "0 0 * * *"
