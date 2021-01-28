@@ -6,7 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Nextcloud
     url: $URL_NEXTCLOUD
-    icon: https://nextcloud.com/favicon.ico
+    icon: $URL_NEXTCLOUD_ICO
   - name: Portainer-DE
     url: $URL_PORTAINER_DE
     icon: https://www.portainer.io/favicon.ico
