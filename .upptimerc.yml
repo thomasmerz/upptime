@@ -56,9 +56,13 @@ sites:
 
 status-website:
   # make status website work with my private repo
-  apiBaseUrl: https://api.github.com
+  #apiBaseUrl: https://api.github.com
   # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
-  publish: true
+  #publish: true
+	#
+	# CONCLUSION: BOTH DOESN'T WORK WITH FREE-ACCOUNTS :-(
+	# "Upgrade or make this repository public to enable…"
+	#
   # Add your custom domain below, or remove the next line if you don't have a domain
   ###cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -68,8 +72,8 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
+#    - title: Status
+#      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
