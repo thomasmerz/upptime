@@ -55,14 +55,14 @@ sites:
       - 401
     __dangerous__insecure: true
   - name: Syncthing-KA-TM
-    url: $URL_SYNCTING_MERZ_NIMBUS_TM
+    url: $URL_SYNCTHING_MERZ_NIMBUS_TM
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
   - name: Syncthing-KA-BI
-    url: $URL_SYNCTING_MERZ_NIMBUS_BI
+    url: $URL_SYNCTHING_MERZ_NIMBUS_BI
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
