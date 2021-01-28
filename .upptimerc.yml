@@ -7,12 +7,15 @@ sites:
   - name: Nextcloud
     url: $URL_NEXTCLOUD
     icon: $URL_NEXTCLOUD_ICO
+    maxResponseTime: 5000
   - name: Portainer-DE
     url: $URL_PORTAINER_DE
     icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 5000
   - name: Portainer-FI
     url: $URL_PORTAINER_FI
     icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 5000
     __dangerous__disable_verify_host: true
 #  - name: Portainer-merz-nimbus
 #    url: $URL_PORTAINER_MERZ_NIMBUS
@@ -21,31 +24,39 @@ sites:
   - name: Pihole-DE
     url: $URL_PIHOLE_DE
     icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 5000
   - name: Pihole-FI
     url: $URL_PIHOLE_FI
     icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 5000
 #  - name: Pihole-merz-nimbus
 #    url: $URL_PIHOLE_MERZ_NIMBUS
 #    icon: https://pi-hole.net/favicon.ico
+#    maxResponseTime: 5000
   - name: Syncthing-hetzner-cloudserver-DE
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 5000
     __dangerous__insecure: true
   - name: Syncthing-hetzner-cloudserver-FI
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 5000
     __dangerous__insecure: true
   - name: Syncthing-contabo-mo
     url: $URL_SYNCTHING_CONTABO_MO
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 5000
     __dangerous__insecure: true
   - name: Syncthing-merz-nimbus-tm
     url: $URL_SYNCTING_MERZ_NIMBUS_TM
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 5000
     __dangerous__insecure: true
   - name: Syncthing-merz-nimbus-bi
     url: $URL_SYNCTING_MERZ_NIMBUS_BI
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 5000
     __dangerous__insecure: true
 #  - name: MCServer_jo
 #    url: $URL_MCSERVER_JO
