@@ -8,39 +8,39 @@ sites:
     url: $URL_NEXTCLOUD
     icon: $URL_NEXTCLOUD_ICO
     maxResponseTime: 3000
-  - name: Portainer-DE
+  - name: Portainer-NBG
     url: $URL_PORTAINER_DE
     icon: https://www.portainer.io/favicon.ico
     maxResponseTime: 3000
-  - name: Portainer-FI
+  - name: Portainer-HEL
     url: $URL_PORTAINER_FI
     icon: https://www.portainer.io/favicon.ico
     maxResponseTime: 3000
     __dangerous__disable_verify_host: true
-  - name: Portainer-merz-nimbus
+  - name: Portainer-KA
     url: $URL_PORTAINER_MERZ_NIMBUS
     icon: https://www.portainer.io/favicon.ico
     __dangerous__disable_verify_host: true
-  - name: Pihole-DE
+  - name: Pihole-NBG
     url: $URL_PIHOLE_DE
     icon: https://pi-hole.net/favicon.ico
     maxResponseTime: 3000
-  - name: Pihole-FI
+  - name: Pihole-HEL
     url: $URL_PIHOLE_FI
     icon: https://pi-hole.net/favicon.ico
     maxResponseTime: 3000
-  - name: Pihole-merz-nimbus
+  - name: Pihole-KA
     url: $URL_PIHOLE_MERZ_NIMBUS
     icon: https://pi-hole.net/favicon.ico
     maxResponseTime: 3000
-  - name: Syncthing-hetzner-cloudserver-DE
+  - name: Syncthing-NBG
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
-  - name: Syncthing-hetzner-cloudserver-FI
+  - name: Syncthing-HEL
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
@@ -54,14 +54,14 @@ sites:
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
-  - name: Syncthing-merz-nimbus-tm
+  - name: Syncthing-KA-TM
     url: $URL_SYNCTING_MERZ_NIMBUS_TM
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
-  - name: Syncthing-merz-nimbus-bi
+  - name: Syncthing-KA-BI
     url: $URL_SYNCTING_MERZ_NIMBUS_BI
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
