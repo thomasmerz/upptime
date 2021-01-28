@@ -55,6 +55,10 @@ sites:
 #    url: $URL_MCSERVER_GA
 
 status-website:
+  # make status website work with my private repo
+  #apiBaseUrl: https://api.github.com
+  # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
+  publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
   ###cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
