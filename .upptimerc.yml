@@ -69,5 +69,24 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# https://upptime.js.org/docs/configuration#ci-schedule
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+# https://upptime.js.org/docs/triggers
+# Setup CI: This workflow is triggered after you edit the configuration file, and runs alls steps: checking uptime, tracking response time, updating the README, and generating graphs
+# Uptime CI: This workflow runs once every 5 minutes and checks if your websites are up. If they are down, it creates a new issue in your repository. This same workflow also closes any issues after your websites have come back up
+# Update Template CI: This workflow runs once a week and updates the internal code of Upptime to make sure you're always on the latest version
+# Static Site CI: This workflow builds and deploys your status page website using GitHub Pages. It reads from your configuration and builds the Svelte/Sapper website, then deploys is to the gh-pages branch and triggers a re-build on GitHub Pages.
+# Graphs CI: This workflow runs once every day and generates response time graphs from the recorded data
+# Response Time CI: This workflow records the reponse time of each endpoint and commits it to git history, which is why it runs once every day
+# Summary CI: This workflow also runs once every day and updates the README of your project with a summary of the response times and generated graphs
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
