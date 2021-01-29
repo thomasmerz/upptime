@@ -76,6 +76,13 @@ sites:
 #    url: $URL_MCSERVER_GA
 
 status-website:
+  # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
+  robotsText: "User-agent: * \n Disallow: /"
+    metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   # make status website work with my private repo
   #apiBaseUrl: https://api.github.com
   # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
