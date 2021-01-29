@@ -78,7 +78,7 @@ sites:
 status-website:
   # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
   robotsText: "User-agent: * \n Disallow: /"
-    metaTags:
+  metaTags:
     - name: "color-scheme"
       content: "dark light"
     - name: "robots"
