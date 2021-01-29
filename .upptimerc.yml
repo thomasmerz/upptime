@@ -8,19 +8,6 @@ sites:
     url: $URL_NEXTCLOUD
     icon: $URL_NEXTCLOUD_ICO
     maxResponseTime: 3000
-  - name: Portainer-NBG
-    url: $URL_PORTAINER_DE
-    icon: https://www.portainer.io/favicon.ico
-    maxResponseTime: 3000
-  - name: Portainer-HEL
-    url: $URL_PORTAINER_FI
-    icon: https://www.portainer.io/favicon.ico
-    maxResponseTime: 3000
-    __dangerous__disable_verify_host: true
-  - name: Portainer-KA
-    url: $URL_PORTAINER_MERZ_NIMBUS
-    icon: https://www.portainer.io/favicon.ico
-    __dangerous__disable_verify_host: true
   - name: Pihole-NBG
     url: $URL_PIHOLE_DE
     icon: https://pi-hole.net/favicon.ico
@@ -68,6 +55,19 @@ sites:
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
+  - name: Portainer-NBG
+    url: $URL_PORTAINER_DE
+    icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 3000
+  - name: Portainer-HEL
+    url: $URL_PORTAINER_FI
+    icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 3000
+    __dangerous__disable_verify_host: true
+  - name: Portainer-KA
+    url: $URL_PORTAINER_MERZ_NIMBUS
+    icon: https://www.portainer.io/favicon.ico
+    __dangerous__disable_verify_host: true
 #  - name: MCServer_jo
 #    url: $URL_MCSERVER_JO
 #  - name: MCServer_si
