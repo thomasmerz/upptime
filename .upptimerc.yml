@@ -90,7 +90,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** monitor and status page for Thomas Merz' servers."
+  introTitle: "**Upptime** monitor and status page"
   introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime).
   # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
 #  i18n:
