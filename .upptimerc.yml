@@ -100,8 +100,8 @@ status-website:
   introTitle: "**Upptime** monitor and status page"
   introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime).
   # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
-#  i18n:
-#    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  i18n:
+    footer: This page is powered by [Upptime](https://upptime.js.org)
   navbar:
 #    - title: Status
 #      href: /
