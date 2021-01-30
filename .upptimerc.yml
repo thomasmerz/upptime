@@ -75,6 +75,9 @@ sites:
 #  - name: MCServer_ga
 #    url: $URL_MCSERVER_GA
 
+assignees:
+  - thomasmerz
+
 status-website:
   # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
   robotsText: "User-agent: * \n Disallow: /"
