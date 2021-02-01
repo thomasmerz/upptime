@@ -76,7 +76,7 @@ sites:
 #    url: $URL_MCSERVER_GA
 
 assignees:
-  - thomasmerz
+  - thomas-merz
 
 status-website:
   # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
