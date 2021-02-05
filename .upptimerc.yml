@@ -19,7 +19,7 @@ sites:
   - name: Pihole-KA
     url: $URL_PIHOLE_MERZ_NIMBUS
     icon: https://pi-hole.net/favicon.ico
-    maxResponseTime: 3000
+    maxResponseTime: 10000
   - name: Syncthing-NBG
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
