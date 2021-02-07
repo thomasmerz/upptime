@@ -85,18 +85,18 @@
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-nbg",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 501,
     "timeDay": 502,
     "timeWeek": 499,
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-02-07": 0
+      "2021-02-07": 2
     }
   },
   {
