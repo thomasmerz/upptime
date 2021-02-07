@@ -85,18 +85,18 @@
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-nbg",
     "status": "down",
-    "uptime": "96.72%",
-    "uptimeDay": "68.23%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "96.72%",
+    "uptime": "96.70%",
+    "uptimeDay": "68.07%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "96.70%",
     "time": 501,
     "timeDay": 498,
     "timeWeek": 499,
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-02-07": 457
+      "2021-02-07": 460
     }
   },
   {
@@ -180,19 +180,19 @@
     "url": "$URL_PORTAINER_DE",
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-nbg",
-    "status": "down",
-    "uptime": "96.99%",
-    "uptimeDay": "70.88%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "96.99%",
+    "status": "up",
+    "uptime": "96.98%",
+    "uptimeDay": "70.73%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 488,
-    "timeDay": 476,
-    "timeWeek": 486,
+    "timeDay": 475,
+    "timeWeek": 485,
     "timeMonth": 488,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2021-02-07": 419
+      "2021-02-07": 421
     }
   },
   {
