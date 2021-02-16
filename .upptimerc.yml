@@ -83,20 +83,11 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   metaTags:
     - name: "color-scheme"
-      content: "dark light"
+      content: "light"
     - name: "robots"
       content: "noindex"
-  # make status website work with my private repo
-  #apiBaseUrl: https://api.github.com
   # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
   #publish: true
-  #
-  # CONCLUSION: BOTH DOESN'T WORK WITH FREE-ACCOUNTS :-(
-  # "Upgrade or make this repository public to enable…"
-  #
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  ###cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://media.githubusercontent.com/media/thomasmerz/upptime/master/assets/Dust-Puppy.png
   name: Upptime
@@ -106,8 +97,6 @@ status-website:
   i18n:
     footer: This page is powered by [Upptime](https://upptime.js.org)
   navbar:
-#    - title: Status
-#      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
