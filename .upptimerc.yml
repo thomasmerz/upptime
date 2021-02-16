@@ -1,26 +1,123 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: thomasmerz # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Nextcloud
-    url: https://nextwurz.mooo.com
+    url: $URL_NEXTCLOUD
+    icon: $URL_NEXTCLOUD_ICO
+    maxResponseTime: 3000
+  - name: Pihole-NBG
+    url: $URL_PIHOLE_DE
+    icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 3000
+  - name: Pihole-HEL
+    url: $URL_PIHOLE_FI
+    icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 3000
+  - name: Pihole-KA
+    url: $URL_PIHOLE_MERZ_NIMBUS
+    icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 10000
+  - name: Syncthing-NBG
+    url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Syncthing-HEL
+    url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Syncthing-contabo-mo
+    url: $URL_SYNCTHING_CONTABO_MO
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Syncthing-KA-TM
+    url: $URL_SYNCTHING_MERZ_NIMBUS_TM
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Syncthing-KA-BI
+    url: $URL_SYNCTHING_MERZ_NIMBUS_BI
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Portainer-NBG
+    url: $URL_PORTAINER_DE
+    icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 3000
+  - name: Portainer-HEL
+    url: $URL_PORTAINER_FI
+    icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 3000
+    __dangerous__disable_verify_host: true
+  - name: Portainer-KA
+    url: $URL_PORTAINER_MERZ_NIMBUS
+    icon: https://www.portainer.io/favicon.ico
+    __dangerous__disable_verify_host: true
+#  - name: MCServer_jo
+#    url: $URL_MCSERVER_JO
+#  - name: MCServer_si
+#    url: $URL_MCSERVER_SI
+#  - name: MCServer_ga
+#    url: $URL_MCSERVER_GA
+
+assignees:
+  - thomas-merz
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  ###cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+    - name: "color-scheme"
+      content: "light"
+    - name: "robots"
+      content: "noindex"
+  # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
+  #publish: true
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://media.githubusercontent.com/media/thomasmerz/upptime/master/assets/Dust-Puppy.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** monitor and status page"
+  introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime).
+  # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
+  i18n:
+    footer: This page is powered by [Upptime](https://upptime.js.org)
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# https://upptime.js.org/docs/configuration#ci-schedule
+workflowSchedule:
+  graphs: "0 0 * * *"  # default
+  responseTime: "0 23 * * *"  # default
+  staticSite: "0 0 * * *"  # default
+  summary: "0 0 * * *"  # default
+  updateTemplate: "0 1 * * *"  # default: 00:00
+  updates: "0 4 * * *"  # default: 03:00
+  uptime: "*/5 * * * *"  # default
+
+# https://upptime.js.org/docs/triggers
+# Graphs CI: This workflow runs once every day and generates response time graphs from the recorded data
+# Response Time CI: This workflow records the reponse time of each endpoint and commits it to git history, which is why it runs once every day
+# Setup CI: This workflow is triggered after you edit the configuration file, and runs alls steps: checking uptime, tracking response time, updating the README, and generating graphs
+# Static Site CI: This workflow builds and deploys your status page website using GitHub Pages. It reads from your configuration and builds the Svelte/Sapper website, then deploys is to the gh-pages branch and triggers a re-build on GitHub Pages.
+# Summary CI: This workflow also runs once every day and updates the README of your project with a summary of the response times and generated graphs
+# Update Template CI: This workflow runs once a week and updates the internal code of Upptime to make sure you're always on the latest version
+# Uptime CI: This workflow runs once every 5 minutes and checks if your websites are up. If they are down, it creates a new issue in your repository. This same workflow also closes any issues after your websites have come back up
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
