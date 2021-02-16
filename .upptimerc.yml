@@ -89,7 +89,7 @@ status-website:
   # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
   #publish: true
   baseUrl: /upptime
-  logoUrl: https://media.githubusercontent.com/media/thomasmerz/upptime/master/assets/Dust-Puppy.png
+  logoUrl: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Dust-Puppy.png
   name: Upptime
   introTitle: "**Upptime** monitor and status page"
   introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime).
