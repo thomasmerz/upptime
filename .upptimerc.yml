@@ -113,13 +113,13 @@ status-website:
 
 # https://upptime.js.org/docs/configuration#ci-schedule
 workflowSchedule:
-  graphs: "*/30 * * * *"
-  responseTime: "*/30 * * * *"
-  staticSite: "*/30 * * * *"
-  summary: "*/30 * * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/30 * * * *"
+  graphs: "0 0 * * *"  # default
+  responseTime: "0 23 * * *"  # default
+  staticSite: "0 */6 * * *"  # default: 00:00
+  summary: "0 1 * * *"  # default: 00:00
+  updateTemplate: "0 1 * * *"  # default: 00:00
+  updates: "0 4 * * *"  # default: 03:00
+  uptime: "*/5 * * * *"  # default
 
 # https://upptime.js.org/docs/triggers
 # Graphs CI: This workflow runs once every day and generates response time graphs from the recorded data
