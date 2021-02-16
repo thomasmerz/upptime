@@ -98,7 +98,7 @@ status-website:
   ###cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Dust-Puppy.png
   name: Upptime
   introTitle: "**Upptime** monitor and status page"
   introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime).
