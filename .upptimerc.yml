@@ -68,12 +68,36 @@ sites:
     url: $URL_PORTAINER_MERZ_NIMBUS
     icon: https://www.portainer.io/favicon.ico
     __dangerous__disable_verify_host: true
-#  - name: MCServer_jo
-#    url: $URL_MCSERVER_JO
-#  - name: MCServer_si
-#    url: $URL_MCSERVER_SI
+  - name: Wireguard-NBG
+    check: "tcp-ping"
+    url: $URL_WIREGUARD_DE
+    port: $PORT_WIREGUARD_DE
+    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+  - name: Wireguard-HEL
+    check: "tcp-ping"
+    url: $URL_WIREGUARD_FI
+    port: $PORT_WIREGUARD_FI
+    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+  - name: Wireguard-KA
+    check: "tcp-ping"
+    url: $URL_WIREGUARD_KA
+    port: $PORT_WIREGUARD_KA
+    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+  - name: MCServer_jo
+    check: "tcp-ping"
+    url: $URL_MCSERVER_JO
+    port: $PORT_MCSERVER_JO
+    icon: https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Favicon.ico/revision/latest
+  - name: MCServer_si
+    check: "tcp-ping"
+    url: $URL_MCSERVER_SI
+    port: $PORT_MCSERVER_SI
+    icon: https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Favicon.ico/revision/latest
 #  - name: MCServer_ga
+#    check: "tcp-ping"
 #    url: $URL_MCSERVER_GA
+#    port: $PORT_MCSERVER_GA
+#    icon: https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Favicon.ico/revision/latest
 
 assignees:
   - thomas-merz
