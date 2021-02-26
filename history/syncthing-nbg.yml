@@ -1,7 +1,7 @@
 url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-02-26T11:02:45.392Z
+status: up
+code: 401
+responseTime: 443
+lastUpdated: 2021-02-26T11:28:34.671Z
 startTime: Tue Feb 16 2021 22:44:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
