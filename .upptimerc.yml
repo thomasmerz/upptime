@@ -83,6 +83,11 @@ sites:
     url: $URL_WIREGUARD_KA
     port: $PORT_WIREGUARD_KA
     icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+  - name: OpenVPN-KA
+    check: "tcp-ping"
+    url: $URL_OPENVPN_KA
+    port: $PORT_OPENVPN_KA
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
   - name: MCServer_jo
     check: "tcp-ping"
     url: $URL_MCSERVER_JO
