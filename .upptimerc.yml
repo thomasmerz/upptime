@@ -92,17 +92,17 @@ sites:
     check: "tcp-ping"
     url: $URL_MCSERVER_JO
     port: $PORT_MCSERVER_JO
-    icon: https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Favicon.ico/revision/latest
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
   - name: MCServer_si
     check: "tcp-ping"
     url: $URL_MCSERVER_SI
     port: $PORT_MCSERVER_SI
-    icon: https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Favicon.ico/revision/latest
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
 #  - name: MCServer_ga
 #    check: "tcp-ping"
 #    url: $URL_MCSERVER_GA
 #    port: $PORT_MCSERVER_GA
-#    icon: https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Favicon.ico/revision/latest
+#    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
 
 assignees:
   - thomas-merz
