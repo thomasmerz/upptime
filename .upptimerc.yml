@@ -6,7 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Nextcloud
     url: $URL_NEXTCLOUD
-    icon: $URL_NEXTCLOUD_ICO
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png
     maxResponseTime: 3000
   - name: Pihole-NBG
     url: $URL_PIHOLE_DE
