@@ -40,6 +40,9 @@ sites:
     maxResponseTime: 3000
     expectedStatusCodes:
       - 401
+    assignees:
+      - thomas-merz
+      - Endmar
     __dangerous__insecure: true
   - name: Syncthing-KA-TM
     url: $URL_SYNCTHING_MERZ_NIMBUS_TM
