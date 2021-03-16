@@ -1,1 +1,0 @@
-/Users/Thomas.Merz/dev/github.com/thomasmerz/issue-tracker/README.md
