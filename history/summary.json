@@ -22,17 +22,17 @@
     "url": "$URL_PIHOLE_DE",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole-nbg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 892,
-    "timeDay": 318,
-    "timeWeek": 242,
-    "timeMonth": 809,
-    "timeYear": 892,
+    "time": 881,
+    "timeDay": 328,
+    "timeWeek": 254,
+    "timeMonth": 795,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2021-02-24": 71
     }
@@ -102,7 +102,7 @@
     "uptimeYear": "98.79%",
     "time": 472,
     "timeDay": 613,
-    "timeWeek": 513,
+    "timeWeek": 512,
     "timeMonth": 464,
     "timeYear": 472,
     "dailyMinutesDown": {
