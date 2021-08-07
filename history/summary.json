@@ -154,9 +154,9 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_FI",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
@@ -166,6 +166,7 @@
     "timeMonth": 571,
     "timeYear": 576,
     "dailyMinutesDown": {
+      "2021-08-07": 0,
       "2021-07-28": 37,
       "2021-07-12": 32,
       "2021-07-07": 25,
@@ -288,9 +289,9 @@
     "slug": "portainer-hel",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "96.45%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
     "time": 721,
     "timeDay": 1881,
@@ -298,7 +299,7 @@
     "timeMonth": 812,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2021-08-07": 51,
+      "2021-08-07": 44,
       "2021-05-21": 31,
       "2021-04-20": 135
     }
