@@ -71,36 +71,39 @@ sites:
     url: $URL_PORTAINER_MERZ_NIMBUS
     icon: https://www.portainer.io/favicon.ico
     __dangerous__disable_verify_host: true
-  - name: Wireguard-NBG
-    check: "tcp-ping"
-    url: $URL_WIREGUARD_DE
-    port: $PORT_WIREGUARD_DE
-    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
-  - name: Wireguard-HEL
-    check: "tcp-ping"
-    url: $URL_WIREGUARD_FI
-    port: $PORT_WIREGUARD_FI
-    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
-  - name: Wireguard-KA
-    check: "tcp-ping"
-    url: $URL_WIREGUARD_KA
-    port: $PORT_WIREGUARD_KA
-    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+# TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
+#  - name: Wireguard-NBG
+#    check: "tcp-ping"
+#    url: $URL_WIREGUARD_DE
+#    port: $PORT_WIREGUARD_DE
+#    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+#  - name: Wireguard-HEL
+#    check: "tcp-ping"
+#    url: $URL_WIREGUARD_FI
+#    port: $PORT_WIREGUARD_FI
+#    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+#  - name: Wireguard-KA
+#    check: "tcp-ping"
+#    url: $URL_WIREGUARD_KA
+#    port: $PORT_WIREGUARD_KA
+#    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
   - name: OpenVPN-KA
     check: "tcp-ping"
     url: $URL_OPENVPN_KA
     port: $PORT_OPENVPN_KA
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
-  - name: MCServer_jo
-    check: "tcp-ping"
-    url: $URL_MCSERVER_JO
-    port: $PORT_MCSERVER_JO
-    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
-  - name: MCServer_si
-    check: "tcp-ping"
-    url: $URL_MCSERVER_SI
-    port: $PORT_MCSERVER_SI
-    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
+# TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
+#  - name: MCServer_jo
+#    check: "tcp-ping"
+#    url: $URL_MCSERVER_JO
+#    port: $PORT_MCSERVER_JO
+#    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
+#  - name: MCServer_si
+#    check: "tcp-ping"
+#    url: $URL_MCSERVER_SI
+#    port: $PORT_MCSERVER_SI
+#    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
+# there are not enough resources yet for all three MCServers running at once:
 #  - name: MCServer_ga
 #    check: "tcp-ping"
 #    url: $URL_MCSERVER_GA

@@ -11,8 +11,8 @@
 export TZ=Europe/Berlin
 
 # Enter how long your maintenance window is for
-mainthour="13" # 0 value allowed
-maintmin="30" # 0 value allowed
+mainthour="07" # 0 value allowed
+maintmin="00" # 0 value allowed
 
 # Enter services to be down (make sure to keep the quotes, and comma separate the values)
 expecteddown="bla, blubb"
