@@ -15,7 +15,7 @@ mainthour="07" # 0 value allowed
 maintmin="00" # 0 value allowed
 
 # Enter services to be down (make sure to keep the quotes, and comma separate the values)
-expecteddown="bla, blubb"
+expecteddown="Syncthing-HEL"
 
 # Nextcloud
 # Pihole-NBG
