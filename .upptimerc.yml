@@ -8,6 +8,7 @@ sites:
     url: $URL_NEXTCLOUD
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png
     maxResponseTime: 3000
+# --- PIHOLE
   - name: Pihole-NBG
     url: $URL_PIHOLE_DE
     icon: https://pi-hole.net/favicon.ico
@@ -20,6 +21,7 @@ sites:
     url: $URL_PIHOLE_MERZ_NIMBUS
     icon: https://pi-hole.net/favicon.ico
     maxResponseTime: 10000
+# --- SYNCTHING
   - name: Syncthing-NBG
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
@@ -58,6 +60,7 @@ sites:
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
+# --- PORTAINER
   - name: Portainer-NBG
     url: $URL_PORTAINER_DE
     icon: https://www.portainer.io/favicon.ico
@@ -71,6 +74,7 @@ sites:
     url: $URL_PORTAINER_MERZ_NIMBUS
     icon: https://www.portainer.io/favicon.ico
     __dangerous__disable_verify_host: true
+# --- WIREGUARD
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
 #  - name: Wireguard-NBG
 #    check: "tcp-ping"
@@ -87,23 +91,26 @@ sites:
 #    url: $URL_WIREGUARD_KA
 #    port: $PORT_WIREGUARD_KA
 #    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+# --- NETDATA
   - name: Netdata-NBG
     url: $URL_NETDATA_DE
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
-    maxResponseTime: 3000
   - name: Netdata-HEL
     url: $URL_NETDATA_FI
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
-    maxResponseTime: 3000
-    __dangerous__disable_verify_host: true
+  - name: Netdata-contabo-mo
+    url: $URL_NETDATA_CONTABO_MO
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
   - name: Netdata-KA
     url: $URL_NETDATA_MERZ_NIMBUS
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+# --- OPENVPN
   - name: OpenVPN-KA
     check: "tcp-ping"
     url: $URL_OPENVPN_KA
     port: $PORT_OPENVPN_KA
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
+# --- MINECRAFT-SERVER
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
 #  - name: MCServer_jo
 #    check: "tcp-ping"
