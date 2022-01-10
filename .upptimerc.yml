@@ -87,6 +87,18 @@ sites:
 #    url: $URL_WIREGUARD_KA
 #    port: $PORT_WIREGUARD_KA
 #    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+  - name: Netdata-NBG
+    url: $URL_NETDATA_DE
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+    maxResponseTime: 3000
+  - name: Netdata-HEL
+    url: $URL_NETDATA_FI
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+    maxResponseTime: 3000
+    __dangerous__disable_verify_host: true
+  - name: Netdata-KA
+    url: $URL_NETDATA_MERZ_NIMBUS
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
   - name: OpenVPN-KA
     check: "tcp-ping"
     url: $URL_OPENVPN_KA
