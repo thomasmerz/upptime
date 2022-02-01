@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.91%",
     "time": 944,
     "timeDay": 1673,
     "timeWeek": 1061,
     "timeMonth": 1526,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2022-01-31": 0,
+      "2022-02-01": 56,
+      "2022-01-31": 9,
       "2022-01-18": 77,
       "2021-11-21": 113,
       "2021-11-09": 26,
@@ -71,8 +72,7 @@
       "2021-10-28": 31,
       "2021-06-18": 17,
       "2021-04-20": 135,
-      "2021-02-24": 17,
-      "2021-02-01": 27
+      "2021-02-24": 17
     }
   },
   {
