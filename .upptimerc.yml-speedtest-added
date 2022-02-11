@@ -1,0 +1,187 @@
+# Change these first
+owner: thomasmerz # Your GitHub username
+repo: upptime # Your GitHub repository name
+
+# Add your sites here
+sites:
+  - name: Nextcloud
+    url: $URL_NEXTCLOUD
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png
+    maxResponseTime: 3000
+# --- PIHOLE
+  - name: Pihole-NBG
+    url: $URL_PIHOLE_DE
+    icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 3000
+  - name: Pihole-HEL
+    url: $URL_PIHOLE_FI
+    icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 3000
+  - name: Pihole-KA
+    url: $URL_PIHOLE_MERZ_NIMBUS
+    icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 10000
+# --- SYNCTHING
+  - name: Syncthing-NBG
+    url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Syncthing-HEL
+    url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Syncthing-contabo-mo
+    url: $URL_SYNCTHING_CONTABO_MO
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    assignees:
+      - thomas-merz
+      - Endmar
+    __dangerous__insecure: true
+  - name: Syncthing-KA-TM
+    url: $URL_SYNCTHING_MERZ_NIMBUS_TM
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+  - name: Syncthing-KA-BI
+    url: $URL_SYNCTHING_MERZ_NIMBUS_BI
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
+# --- PORTAINER
+  - name: Portainer-NBG
+    url: $URL_PORTAINER_DE
+    icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 3000
+  - name: Portainer-HEL
+    url: $URL_PORTAINER_FI
+    icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 3000
+    __dangerous__disable_verify_host: true
+  - name: Portainer-KA
+    url: $URL_PORTAINER_MERZ_NIMBUS
+    icon: https://www.portainer.io/favicon.ico
+    __dangerous__disable_verify_host: true
+# --- WIREGUARD
+# TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
+#  - name: Wireguard-NBG
+#    check: "tcp-ping"
+#    url: $URL_WIREGUARD_DE
+#    port: $PORT_WIREGUARD_DE
+#    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+#  - name: Wireguard-HEL
+#    check: "tcp-ping"
+#    url: $URL_WIREGUARD_FI
+#    port: $PORT_WIREGUARD_FI
+#    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+#  - name: Wireguard-KA
+#    check: "tcp-ping"
+#    url: $URL_WIREGUARD_KA
+#    port: $PORT_WIREGUARD_KA
+#    icon: https://symbols.getvecta.com/stencil_101/70_wireguard-icon.5e959a20f0.png
+# --- NETDATA
+  - name: Netdata-NBG
+    url: $URL_NETDATA_DE
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+  - name: Netdata-HEL
+    url: $URL_NETDATA_FI
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+  - name: Netdata-contabo-mo
+    url: $URL_NETDATA_CONTABO_MO
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+  - name: Netdata-KA
+    url: $URL_NETDATA_MERZ_NIMBUS
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+# --- SPEEDTEST
+  - name: Speedtest-NBG
+    url: $URL_SPEEDTEST_DE
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Netdata-HEL
+    url: $URL_SPEEDTEST_FI
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Netdata-KA
+    url: $URL_SPEEDTEST_MERZ_NIMBUS
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+# --- OPENVPN
+  - name: OpenVPN-KA
+    check: "tcp-ping"
+    url: $URL_OPENVPN_KA
+    port: $PORT_OPENVPN_KA
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
+# --- MINECRAFT-SERVER
+# TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
+#  - name: MCServer_jo
+#    check: "tcp-ping"
+#    url: $URL_MCSERVER_JO
+#    port: $PORT_MCSERVER_JO
+#    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
+#  - name: MCServer_si
+#    check: "tcp-ping"
+#    url: $URL_MCSERVER_SI
+#    port: $PORT_MCSERVER_SI
+#    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
+# there are not enough resources yet for all three MCServers running at once:
+#  - name: MCServer_ga
+#    check: "tcp-ping"
+#    url: $URL_MCSERVER_GA
+#    port: $PORT_MCSERVER_GA
+#    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Favicon-minecraft.ico
+
+assignees:
+  - thomas-merz
+
+status-website:
+  # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+    - name: "color-scheme"
+      content: "light"
+    - name: "robots"
+      content: "noindex"
+  # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
+  #publish: true
+  baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Dust-Puppy.png
+  name: Upptime
+  introTitle: "**Upptime** monitor and status page"
+  introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime).
+  # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
+  i18n:
+    footer: This page is powered by [Upptime](https://upptime.js.org)
+  navbar:
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# https://upptime.js.org/docs/configuration#ci-schedule
+workflowSchedule:
+  graphs: "0 0 * * *"  # default
+  responseTime: "0 23 * * *"  # default
+  staticSite: "0 0 * * *"  # default
+  summary: "0 0 * * *"  # default
+  updateTemplate: "0 1 * * *"  # default: 00:00
+  updates: "0 4 * * *"  # default: 03:00
+  uptime: "*/5 * * * *"  # default
+
+# https://upptime.js.org/docs/triggers
+# Graphs CI: This workflow runs once every day and generates response time graphs from the recorded data
+# Response Time CI: This workflow records the reponse time of each endpoint and commits it to git history, which is why it runs once every day
+# Setup CI: This workflow is triggered after you edit the configuration file, and runs alls steps: checking uptime, tracking response time, updating the README, and generating graphs
+# Static Site CI: This workflow builds and deploys your status page website using GitHub Pages. It reads from your configuration and builds the Svelte/Sapper website, then deploys is to the gh-pages branch and triggers a re-build on GitHub Pages.
+# Summary CI: This workflow also runs once every day and updates the README of your project with a summary of the response times and generated graphs
+# Update Template CI: This workflow runs once a week and updates the internal code of Upptime to make sure you're always on the latest version
+# Uptime CI: This workflow runs once every 5 minutes and checks if your websites are up. If they are down, it creates a new issue in your repository. This same workflow also closes any issues after your websites have come back up
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
