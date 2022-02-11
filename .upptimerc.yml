@@ -104,6 +104,16 @@ sites:
   - name: Netdata-KA
     url: $URL_NETDATA_MERZ_NIMBUS
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+# --- SPEEDTEST
+  - name: Speedtest-NBG
+    url: $URL_SPEEDTEST_DE
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Netdata-HEL
+    url: $URL_SPEEDTEST_FI
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Netdata-KA
+    url: $URL_SPEEDTEST_MERZ_NIMBUS
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
 # --- OPENVPN
   - name: OpenVPN-KA
     check: "tcp-ping"
