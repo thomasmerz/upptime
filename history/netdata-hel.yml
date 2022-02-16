@@ -1,7 +1,7 @@
-url: $URL_SPEEDTEST_FI
+url: $URL_NETDATA_FI
 status: up
 code: 200
-responseTime: 276
-lastUpdated: 2022-02-15T23:06:40.744Z
+responseTime: 430
+lastUpdated: 2022-02-16T23:06:43.485Z
 startTime: Mon Jan 10 2022 15:44:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
