@@ -1,7 +1,7 @@
-url: $URL_NETDATA_MERZ_NIMBUS
+url: $URL_SPEEDTEST_MERZ_NIMBUS
 status: up
 code: 200
-responseTime: 537
-lastUpdated: 2022-03-05T23:06:35.566Z
+responseTime: 376
+lastUpdated: 2022-03-05T23:06:37.711Z
 startTime: Mon Jan 10 2022 15:44:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
