@@ -482,19 +482,19 @@
     "url": "$URL_NETDATA_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-hel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 1296,
-    "timeWeek": 475,
-    "timeMonth": 410,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 408,
+    "timeDay": 1034,
+    "timeWeek": 478,
+    "timeMonth": 412,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-03-22": 1
+      "2022-03-22": 6
     }
   },
   {
@@ -562,19 +562,19 @@
     "url": "$URL_SPEEDTEST_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "netdata-hel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 1296,
-    "timeWeek": 475,
-    "timeMonth": 410,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 408,
+    "timeDay": 1034,
+    "timeWeek": 478,
+    "timeMonth": 412,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-03-22": 1
+      "2022-03-22": 6
     }
   },
   {
