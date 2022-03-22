@@ -129,12 +129,12 @@
     "slug": "syncthing-nbg",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "96.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.62%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.08%",
     "time": 501,
-    "timeDay": 454,
+    "timeDay": 467,
     "timeWeek": 484,
     "timeMonth": 529,
     "timeYear": 504,
@@ -482,10 +482,10 @@
     "url": "$URL_NETDATA_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
@@ -493,7 +493,9 @@
     "timeWeek": 475,
     "timeMonth": 410,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 1
+    }
   },
   {
     "name": "Netdata-contabo-mo",
@@ -560,10 +562,10 @@
     "url": "$URL_SPEEDTEST_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "netdata-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
@@ -571,7 +573,9 @@
     "timeWeek": 475,
     "timeMonth": 410,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 1
+    }
   },
   {
     "name": "Netdata-KA",
