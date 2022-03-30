@@ -4,10 +4,10 @@
     "url": "$URL_NEXTCLOUD",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
     "time": 940,
@@ -16,6 +16,7 @@
     "timeMonth": 885,
     "timeYear": 963,
     "dailyMinutesDown": {
+      "2022-03-30": 1,
       "2022-03-08": 56,
       "2022-02-05": 18,
       "2022-02-01": 95,
@@ -32,10 +33,10 @@
     "url": "$URL_PIHOLE_DE",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 308,
@@ -44,6 +45,7 @@
     "timeMonth": 301,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2022-03-30": 1,
       "2021-11-09": 26,
       "2021-04-20": 135
     }
@@ -128,10 +130,10 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_DE",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.10%",
     "time": 501,
@@ -140,6 +142,7 @@
     "timeMonth": 524,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2022-03-30": 1,
       "2022-03-29": 17,
       "2022-03-26": 41,
       "2022-03-21": 45,
@@ -221,8 +224,7 @@
       "2021-05-23": 79,
       "2021-05-16": 16,
       "2021-05-12": 26,
-      "2021-04-29": 15,
-      "2021-04-26": 30
+      "2021-04-29": 15
     }
   },
   {
@@ -360,9 +362,9 @@
     "url": "$URL_PORTAINER_DE",
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.27%",
@@ -372,6 +374,7 @@
     "timeMonth": 397,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2022-03-30": 1,
       "2021-12-23": 772,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
@@ -466,10 +469,10 @@
     "url": "$URL_NETDATA_DE",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
@@ -477,7 +480,9 @@
     "timeWeek": 354,
     "timeMonth": 369,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 1
+    }
   },
   {
     "name": "Netdata-HEL",
@@ -545,9 +550,9 @@
     "url": "$URL_SPEEDTEST_DE",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -556,7 +561,9 @@
     "timeWeek": 283,
     "timeMonth": 397,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "Netdata-HEL",
