@@ -130,9 +130,9 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_DE",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.10%",
@@ -142,6 +142,7 @@
     "timeMonth": 519,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-30": 15,
       "2022-03-29": 17,
       "2022-03-26": 41,
@@ -223,8 +224,7 @@
       "2021-05-30": 41,
       "2021-05-23": 79,
       "2021-05-16": 16,
-      "2021-05-12": 26,
-      "2021-04-29": 15
+      "2021-05-12": 26
     }
   },
   {
@@ -393,7 +393,7 @@
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-hel",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
