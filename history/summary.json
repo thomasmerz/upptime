@@ -55,10 +55,10 @@
     "url": "$URL_PIHOLE_FI",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 486,
@@ -67,6 +67,7 @@
     "timeMonth": 298,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2022-04-13": 1,
       "2022-01-11": 771,
       "2022-01-10": 121,
       "2022-01-05": 34,
@@ -132,17 +133,16 @@
     "slug": "syncthing-nbg",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.10%",
     "time": 501,
-    "timeDay": 504,
+    "timeDay": 503,
     "timeWeek": 517,
-    "timeMonth": 501,
+    "timeMonth": 502,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2022-04-13": 6,
       "2022-04-12": 18,
       "2022-04-11": 2,
       "2022-04-02": 32,
@@ -225,7 +225,8 @@
       "2021-06-10": 20,
       "2021-06-07": 81,
       "2021-05-30": 41,
-      "2021-05-23": 79
+      "2021-05-23": 79,
+      "2021-05-16": 16
     }
   },
   {
@@ -637,7 +638,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-13": 242,
+      "2022-04-13": 957,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
       "2022-04-10": 989
