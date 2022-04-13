@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -130,18 +130,19 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_DE",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.10%",
     "time": 501,
-    "timeDay": 566,
+    "timeDay": 540,
     "timeWeek": 524,
     "timeMonth": 502,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2022-04-13": 1,
       "2022-04-12": 18,
       "2022-04-11": 2,
       "2022-04-02": 32,
@@ -224,8 +225,7 @@
       "2021-06-10": 20,
       "2021-06-07": 81,
       "2021-05-30": 41,
-      "2021-05-23": 79,
-      "2021-05-16": 16
+      "2021-05-23": 79
     }
   },
   {
@@ -394,7 +394,7 @@
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-hel",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -637,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-13": 16,
+      "2022-04-13": 236,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
       "2022-04-10": 989
