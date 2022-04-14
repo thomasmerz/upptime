@@ -130,18 +130,19 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_DE",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.10%",
     "time": 501,
-    "timeDay": 478,
+    "timeDay": 559,
     "timeWeek": 515,
-    "timeMonth": 504,
+    "timeMonth": 502,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2022-04-12": 18,
       "2022-04-11": 2,
       "2022-04-02": 32,
@@ -224,8 +225,7 @@
       "2021-06-10": 20,
       "2021-06-07": 81,
       "2021-05-30": 41,
-      "2021-05-23": 79,
-      "2021-05-16": 16
+      "2021-05-23": 79
     }
   },
   {
@@ -637,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-14": 17,
+      "2022-04-14": 401,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
