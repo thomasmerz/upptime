@@ -4,11 +4,11 @@
     "url": "$URL_NEXTCLOUD",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.81%",
     "time": 989,
     "timeDay": 663,
@@ -16,6 +16,7 @@
     "timeMonth": 1575,
     "timeYear": 1039,
     "dailyMinutesDown": {
+      "2022-05-05": 4,
       "2022-04-29": 18,
       "2022-04-25": 225,
       "2022-04-24": 103,
@@ -37,11 +38,11 @@
     "url": "$URL_PIHOLE_DE",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 302,
     "timeDay": 184,
@@ -49,6 +50,7 @@
     "timeMonth": 246,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2022-05-05": 3,
       "2022-04-21": 18,
       "2022-03-30": 16,
       "2021-11-09": 26
@@ -132,18 +134,19 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_DE",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-nbg",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.13%",
     "time": 504,
     "timeDay": 500,
     "timeWeek": 542,
     "timeMonth": 529,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2022-05-05": 3,
       "2022-05-02": 39,
       "2022-04-30": 15,
       "2022-04-29": 46,
@@ -225,8 +228,7 @@
       "2021-07-07": 75,
       "2021-07-06": 14,
       "2021-06-23": 41,
-      "2021-06-19": 51,
-      "2021-06-14": 34
+      "2021-06-19": 51
     }
   },
   {
@@ -360,11 +362,11 @@
     "url": "$URL_PORTAINER_DE",
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.33%",
     "time": 436,
     "timeDay": 301,
@@ -372,6 +374,7 @@
     "timeMonth": 396,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2022-05-05": 2,
       "2021-12-23": 772,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
@@ -461,10 +464,10 @@
     "url": "$URL_NETDATA_DE",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
@@ -472,7 +475,9 @@
     "timeWeek": 404,
     "timeMonth": 365,
     "timeYear": 341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 2
+    }
   },
   {
     "name": "Netdata-HEL",
@@ -540,10 +545,10 @@
     "url": "$URL_SPEEDTEST_DE",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
@@ -551,7 +556,9 @@
     "timeWeek": 315,
     "timeMonth": 289,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 1
+    }
   },
   {
     "name": "Netdata-HEL",
@@ -629,7 +636,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-05": 15,
+      "2022-05-05": 53,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
