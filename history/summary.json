@@ -391,19 +391,19 @@
     "url": "$URL_PORTAINER_FI",
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-hel",
-    "status": "down",
+    "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.32%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.31%",
     "time": 646,
-    "timeDay": 438,
-    "timeWeek": 525,
-    "timeMonth": 509,
+    "timeDay": 447,
+    "timeWeek": 517,
+    "timeMonth": 507,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2022-05-06": 2,
+      "2022-05-06": 10,
       "2022-01-05": 34,
       "2021-12-23": 772,
       "2021-12-22": 1440,
@@ -496,9 +496,7 @@
     "timeWeek": 385,
     "timeMonth": 373,
     "timeYear": 389,
-    "dailyMinutesDown": {
-      "2022-05-06": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata-contabo-mo",
@@ -579,9 +577,7 @@
     "timeWeek": 385,
     "timeMonth": 373,
     "timeYear": 389,
-    "dailyMinutesDown": {
-      "2022-05-06": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata-KA",
@@ -641,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-06": 1336,
+      "2022-05-06": 1345,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
