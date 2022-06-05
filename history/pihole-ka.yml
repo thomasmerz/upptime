@@ -1,7 +1,7 @@
 url: $URL_PIHOLE_MERZ_NIMBUS
-status: up
+status: degraded
 code: 200
-responseTime: 4669
-lastUpdated: 2022-06-05T08:17:30.255Z
+responseTime: 10319
+lastUpdated: 2022-06-05T18:59:31.756Z
 startTime: Tue Feb 16 2021 22:44:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
