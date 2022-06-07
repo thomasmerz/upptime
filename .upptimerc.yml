@@ -108,10 +108,10 @@ sites:
   - name: Speedtest-NBG
     url: $URL_SPEEDTEST_DE
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
-  - name: Netdata-HEL
+  - name: Speedtest-HEL
     url: $URL_SPEEDTEST_FI
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
-  - name: Netdata-KA
+  - name: Speedtest-KA
     url: $URL_SPEEDTEST_MERZ_NIMBUS
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
 # --- OPENVPN
