@@ -107,7 +107,7 @@
     "time": 2802,
     "timeDay": 5491,
     "timeWeek": 6271,
-    "timeMonth": 5505,
+    "timeMonth": 5624,
     "timeYear": 2785,
     "dailyMinutesDown": {
       "2022-06-05": 117,
@@ -232,7 +232,7 @@
     "time": 587,
     "timeDay": 458,
     "timeWeek": 517,
-    "timeMonth": 565,
+    "timeMonth": 566,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2022-06-05": 108,
@@ -267,12 +267,12 @@
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.39%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.84%",
     "time": 625,
     "timeDay": 461,
     "timeWeek": 661,
-    "timeMonth": 1056,
+    "timeMonth": 1074,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2022-06-05": 107,
@@ -425,10 +425,10 @@
     "url": "$URL_NETDATA_CONTABO_MO",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-contabo-mo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 350,
@@ -437,6 +437,7 @@
     "timeMonth": 367,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2022-06-10": 1,
       "2022-02-09": 16
     }
   },
@@ -556,7 +557,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-10": 17,
+      "2022-06-10": 123,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
