@@ -1,7 +1,7 @@
 url: $URL_OPENVPN_KA
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-28T23:19:55.888Z
+status: up
+code: 200
+responseTime: 108
+lastUpdated: 2022-06-28T23:32:35.581Z
 startTime: Fri Feb 26 2021 21:25:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
