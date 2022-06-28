@@ -120,9 +120,6 @@ sites:
     url: $URL_OPENVPN_KA
     port: $PORT_OPENVPN_KA
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
-# --- MYPDNS-GITLAB
-  - name: MyPDNS Gitlab
-    url: https://mypdns.org
 # --- MINECRAFT-SERVER
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
 #  - name: MCServer_jo
