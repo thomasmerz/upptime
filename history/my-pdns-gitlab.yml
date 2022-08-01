@@ -1,7 +1,7 @@
-url: https://mypdns.org
-status: up
-code: 200
-responseTime: 1859
-lastUpdated: 2022-07-31T23:02:06.006Z
+url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui%27
+status: down
+code: 404
+responseTime: 437
+lastUpdated: 2022-08-01T16:11:12.653Z
 startTime: Fri Jul 15 2022 09:34:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
