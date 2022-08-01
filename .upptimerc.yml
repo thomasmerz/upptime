@@ -122,7 +122,23 @@ sites:
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
 # --- MYPDNS-GITLAB
   - name: MyPDNS Gitlab
-    url: https://mypdns.org
+    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui%27
+    icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
+  - name: MyPDNS (BETA testing YouTrack. Delivered by Zendesk)
+    url: http://support.mypdns.org:8080/
+    icon: http://support.mypdns.org:8080/api/logo?168-2
+  - name: MyPDNS (gitlab.com)
+    url: https://gitlab.com/my-privacy-dns/
+  - name: MyPDNS (jira.com)
+    url: https://mypdns.atlassian.net/jira/software/c/projects/MAT
+  - name: MyPDNS (bitbucket.com)
+    url: https://bitbucket.org/mypdns
+  - name: MyPDNS (framagit.org)
+    url: https://framagit.org/my-privacy-dns
+  - name: MyPDNS (youtrack.space)
+    url: https://mypdns.youtrack.cloud
+  - name: MyPDNS (jetbrains.space)
+    url: https://mypdns.jetbrains.space
 # --- MINECRAFT-SERVER
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
 #  - name: MCServer_jo
