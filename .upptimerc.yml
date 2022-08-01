@@ -124,7 +124,7 @@ sites:
   - name: MyPDNS Gitlab
     url: https://mypdns.org
     icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
-  - name: MyPDNS (BETA testing)
+  - name: MyPDNS (BETA testing YouTrack. Delivered by Zendesk)
     url: http://support.mypdns.org:8080/
     icon: http://support.mypdns.org:8080/api/logo?168-2
   - name: MyPDNS (gitlab.com)
