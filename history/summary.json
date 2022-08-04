@@ -657,7 +657,7 @@
     "url": "http://support.mypdns.org:8080/",
     "icon": "http://support.mypdns.org:8080/api/logo?168-2",
     "slug": "my-pdns-beta-testing-you-track-delivered-by-zendesk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
