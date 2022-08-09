@@ -127,26 +127,17 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "status":"ok" }'
-  - name: MyPDNS (BETA testing YouTrack. Delivered by Zendesk)
+  - name: MyPDNS (BETA testing YouTrack, Gitea and other bug tracker solutions)
     url: http://support.mypdns.org:8080/
     icon: http://support.mypdns.org:8080/api/logo?168-2
   - name: MyPDNS (gitlab.com)
     url: https://gitlab.com/my-privacy-dns/
-    icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
-  - name: MyPDNS (jira.com)
-    url: https://mypdns.atlassian.net/jira/software/c/projects/MAT
     icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
   - name: MyPDNS (bitbucket.com)
     url: https://bitbucket.org/mypdns
     icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
   - name: MyPDNS (framagit.org)
     url: https://framagit.org/my-privacy-dns
-    icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
-  - name: MyPDNS (youtrack.space)
-    url: https://mypdns.youtrack.cloud
-    icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
-  - name: MyPDNS (jetbrains.space)
-    url: https://mypdns.jetbrains.space
     icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
 # --- MINECRAFT-SERVER
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
