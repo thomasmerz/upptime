@@ -704,18 +704,20 @@
     "url": "https://gitlab.com/my-privacy-dns/",
     "icon": "https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png",
     "slug": "my-pdns-gitlab-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 311,
-    "timeWeek": 330,
-    "timeMonth": 361,
-    "timeYear": 365,
-    "dailyMinutesDown": {}
+    "time": 356,
+    "timeDay": 175,
+    "timeWeek": 288,
+    "timeMonth": 350,
+    "timeYear": 356,
+    "dailyMinutesDown": {
+      "2022-09-03": 1
+    }
   },
   {
     "name": "MyPDNS (bitbucket.com)",
