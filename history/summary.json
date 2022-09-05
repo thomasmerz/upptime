@@ -117,7 +117,7 @@
     "timeDay": 754,
     "timeWeek": 3885,
     "timeMonth": 4891,
-    "timeYear": 3297,
+    "timeYear": 3291,
     "dailyMinutesDown": {
       "2022-09-02": 103,
       "2022-08-16": 50,
@@ -245,7 +245,7 @@
     "timeDay": 757,
     "timeWeek": 635,
     "timeMonth": 595,
-    "timeYear": 633,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2022-08-09": 27,
       "2022-08-08": 16,
@@ -283,7 +283,7 @@
     "timeDay": 733,
     "timeWeek": 648,
     "timeMonth": 612,
-    "timeYear": 683,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2022-08-09": 17,
       "2022-08-08": 15,
@@ -541,10 +541,10 @@
     "url": "$URL_OPENVPN_KA",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png",
     "slug": "open-vpn-ka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 136,
@@ -553,6 +553,7 @@
     "timeMonth": 176,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2022-09-05": 1,
       "2022-07-23": 89,
       "2022-07-10": 368
     }
@@ -566,12 +567,12 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "68.22%",
+    "uptimeMonth": "68.37%",
     "uptimeYear": "0.00%",
     "time": 838,
     "timeDay": 701,
     "timeWeek": 617,
-    "timeMonth": 648,
+    "timeMonth": 645,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2022-08-29": 26,
