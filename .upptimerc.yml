@@ -123,7 +123,7 @@ sites:
 # --- MYPDNS-GITLAB
   - name: My Privacy DNS
     url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
-    icon: https://mypdns.org/uploads/-/system/appearance/favicon/1/penguin_pirate.png
+    icon: https://mypdns.org/uploads/-/system/appearance/header_logo/1/Icon___Wordmark.png
     headers:
       - "Content-Type: application/json"
     body: '{ "status":"ok" }'
