@@ -8,12 +8,12 @@
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.37%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.25%",
     "time": 1336,
     "timeDay": 702,
     "timeWeek": 790,
-    "timeMonth": 1296,
+    "timeMonth": 1293,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2022-09-02": 492,
@@ -117,7 +117,7 @@
     "timeDay": 521,
     "timeWeek": 809,
     "timeMonth": 1889,
-    "timeYear": 3008,
+    "timeYear": 3005,
     "dailyMinutesDown": {
       "2022-09-18": 53,
       "2022-09-02": 103,
@@ -278,7 +278,7 @@
     "timeDay": 648,
     "timeWeek": 891,
     "timeMonth": 693,
-    "timeYear": 690,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2022-08-09": 17,
       "2022-08-08": 15,
@@ -447,12 +447,12 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 421,
     "timeDay": 475,
     "timeWeek": 485,
-    "timeMonth": 549,
+    "timeMonth": 554,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2022-08-26": 51,
@@ -534,7 +534,7 @@
     "slug": "open-vpn-ka",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "0.27%",
+    "uptimeDay": "46.08%",
     "uptimeWeek": "85.75%",
     "uptimeMonth": "96.15%",
     "uptimeYear": "99.59%",
@@ -556,10 +556,10 @@
     "url": "https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui",
     "icon": "https://mypdns.org/uploads/-/system/appearance/header_logo/1/Icon___Wordmark.png",
     "slug": "my-privacy-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 649,
@@ -568,6 +568,7 @@
     "timeMonth": 649,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2022-09-26": 1,
       "2022-09-12": 18
     }
   }
