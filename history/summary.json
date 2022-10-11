@@ -550,10 +550,10 @@
     "url": "https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui",
     "icon": "https://mypdns.org/uploads/-/system/appearance/header_logo/1/Icon___Wordmark.png",
     "slug": "my-privacy-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "83.25%",
-    "uptimeWeek": "94.07%",
+    "uptimeDay": "83.21%",
+    "uptimeWeek": "94.06%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "98.82%",
     "time": 659,
@@ -562,7 +562,7 @@
     "timeMonth": 667,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2022-10-11": 212,
+      "2022-10-11": 213,
       "2022-10-10": 29,
       "2022-10-04": 357,
       "2022-09-12": 18
