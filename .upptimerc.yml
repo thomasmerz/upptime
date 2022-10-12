@@ -121,12 +121,12 @@ sites:
     port: $PORT_OPENVPN_KA
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
 # --- MYPDNS-GITLAB
-  - name: My Privacy DNS
-    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
-    icon: https://mypdns.org/uploads/-/system/appearance/header_logo/1/Icon___Wordmark.png
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "status":"ok" }'
+#  - name: My Privacy DNS
+#    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
+#    icon: https://mypdns.org/uploads/-/system/appearance/header_logo/1/Icon___Wordmark.png
+#    headers:
+#      - "Content-Type: application/json"
+#    body: '{ "status":"ok" }'
 # --- MINECRAFT-SERVER
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
 #  - name: MCServer_jo
