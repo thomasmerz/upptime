@@ -211,9 +211,9 @@
     "url": "$URL_SYNCTHING_CONTABO_MO",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-contabo-mo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -223,6 +223,7 @@
     "timeMonth": 541,
     "timeYear": 528,
     "dailyMinutesDown": {
+      "2022-10-29": 0,
       "2022-02-09": 16
     }
   },
@@ -418,9 +419,9 @@
     "url": "$URL_NETDATA_CONTABO_MO",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-contabo-mo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -430,6 +431,7 @@
     "timeMonth": 385,
     "timeYear": 359,
     "dailyMinutesDown": {
+      "2022-10-29": 0,
       "2022-06-10": 44,
       "2022-02-09": 16
     }
