@@ -36,16 +36,6 @@ sites:
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
-  - name: Syncthing-contabo-mo
-    url: $URL_SYNCTHING_CONTABO_MO
-    icon: https://syncthing.net/img/favicons/favicon-32x32.png
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 401
-    assignees:
-      - thomas-merz
-      - Endmar
-    __dangerous__insecure: true
   - name: Syncthing-KA-TM
     url: $URL_SYNCTHING_MERZ_NIMBUS_TM
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
