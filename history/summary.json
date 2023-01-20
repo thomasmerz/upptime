@@ -375,11 +375,11 @@
     "url": "$URL_NETDATA_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 445,
     "timeDay": 474,
@@ -387,7 +387,7 @@
     "timeMonth": 489,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-01-20": 9,
+      "2023-01-20": 1,
       "2022-11-15": 34
     }
   },
