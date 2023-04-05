@@ -461,19 +461,19 @@
     "url": "$URL_SPEEDTEST_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-hel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 508,
-    "timeWeek": 398,
-    "timeMonth": 373,
+    "timeDay": 400,
+    "timeWeek": 385,
+    "timeMonth": 370,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2023-04-05": 1
+      "2023-04-05": 8
     }
   },
   {
