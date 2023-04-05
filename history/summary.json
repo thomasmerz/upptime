@@ -12,7 +12,7 @@
     "uptimeYear": "99.14%",
     "time": 1243,
     "timeDay": 1014,
-    "timeWeek": 948,
+    "timeWeek": 943,
     "timeMonth": 862,
     "timeYear": 1325,
     "dailyMinutesDown": {
@@ -461,10 +461,10 @@
     "url": "$URL_SPEEDTEST_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
@@ -472,7 +472,9 @@
     "timeWeek": 398,
     "timeMonth": 373,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 1
+    }
   },
   {
     "name": "Speedtest-KA",
