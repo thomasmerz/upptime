@@ -107,6 +107,9 @@ sites:
     url: $URL_OPENVPN_KA
     port: $PORT_OPENVPN_KA
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/openvpn_104297.png
+# --- DASHBOARDS: dnspingtest, pingtest (ka-only), speedtest (ka-only)
+  - name: Dashboards-NBG
+    url: $URL_DASHBOARDS_DE
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
