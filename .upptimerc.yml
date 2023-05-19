@@ -153,7 +153,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/Dust-Puppy.png
   name: Upptime
   introTitle: "**Upptime** monitor and status page"
-  introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime). [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/thomasmerz/upptime.svg)](http://isitmaintained.com/project/thomasmerz/upptime"Average time to resolve an issue")
+  introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomasmerz/upptime). [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/thomasmerz/upptime.svg)](http://isitmaintained.com/project/thomasmerz/upptime)
   # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
   i18n:
     footer: This page is powered by [Upptime](https://upptime.js.org)
