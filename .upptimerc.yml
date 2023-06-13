@@ -64,6 +64,11 @@ sites:
     icon: https://www.portainer.io/favicon.ico
     maxResponseTime: 3000
     __dangerous__disable_verify_host: true
+  - name: Portainer-FSN
+    url: $URL_PORTAINER_FSN
+    icon: https://www.portainer.io/favicon.ico
+    maxResponseTime: 3000
+    __dangerous__disable_verify_host: true
   - name: Portainer-KA
     url: $URL_PORTAINER_MERZ_NIMBUS
     icon: https://www.portainer.io/favicon.ico
