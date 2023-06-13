@@ -104,15 +104,27 @@ sites:
   - name: Speedtest-v2-NBG1-1
     url: $URL_SPEEDTEST_V2_NBG1_1
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
   - name: Speedtest-v2-HEL1-1
     url: $URL_SPEEDTEST_V2_HEL1_1
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
   - name: Speedtest-v2-FSN1-1
     url: $URL_SPEEDTEST_V2_FSN1_1
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
   - name: Speedtest-v2-KA
     url: $URL_SPEEDTEST_V2_MERZ_NIMBUS
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
 # --- OPENVPN
   - name: OpenVPN-KA
     check: "tcp-ping"
