@@ -17,6 +17,10 @@ sites:
     url: $URL_PIHOLE_FI
     icon: https://pi-hole.net/favicon.ico
     maxResponseTime: 3000
+  - name: Pihole-FSN
+    url: $URL_PIHOLE_FSN1
+    icon: https://pi-hole.net/favicon.ico
+    maxResponseTime: 3000
   - name: Pihole-KA
     url: $URL_PIHOLE_MERZ_NIMBUS
     icon: https://pi-hole.net/favicon.ico
