@@ -97,6 +97,9 @@ sites:
   - name: Netdata-HEL
     url: $URL_NETDATA_FI
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+  - name: Netdata-FSN
+    url: $URL_NETDATA_FSN
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
   - name: Netdata-KA
     url: $URL_NETDATA_MERZ_NIMBUS
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
