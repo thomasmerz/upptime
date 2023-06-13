@@ -125,7 +125,7 @@ sites:
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
     __dangerous__insecure: true
   - name: Speedtest-v2-FSN1-1
-    url: $URL_SPEEDTEST_V2_FSN1_1
+    url: $URL_SPEEDTEST_V2_FSN_1
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
     __dangerous__insecure: true
   - name: Speedtest-v2-KA
