@@ -101,6 +101,18 @@ sites:
   - name: Speedtest-KA
     url: $URL_SPEEDTEST_MERZ_NIMBUS
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Speedtest-v2-NBG1-1
+    url: $URL_SPEEDTEST_V2_NBG1_1
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Speedtest-v2-HEL1-1
+    url: $URL_SPEEDTEST_V2_HEL1_1
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Speedtest-v2-FSN1-1
+    url: $URL_SPEEDTEST_V2_FSN1_1
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
+  - name: Speedtest-v2-KA
+    url: $URL_SPEEDTEST_V2_MERZ_NIMBUS
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png
 # --- OPENVPN
   - name: OpenVPN-KA
     check: "tcp-ping"
@@ -110,6 +122,13 @@ sites:
 # --- DASHBOARDS: dnspingtest, pingtest (ka-only), speedtest (ka-only)
   - name: Dashboards-NBG
     url: $URL_DASHBOARDS_DE
+# --- MASTODON
+  - name: Mastodon Fulda.social
+    url: https://fulda.social
+    icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
+  - name: Mastodon Karlsruhe.social
+    url: https://karlsruhe.social
+    icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
