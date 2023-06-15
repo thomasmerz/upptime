@@ -12,7 +12,7 @@ sites:
     check: "tcp-ping"
     url: $URL_STORAGEBOX
     port: 22
-    icon: https://cdn.hetzner.de/cdn/public/Uploads/icon-circle-storage-box.svg
+    icon: https://cdn.hetzner.de/cdn/public/Uploads/icon-circle-protocol.svg
 # --- PIHOLE
   - name: Pihole-NBG
     url: $URL_PIHOLE_DE
