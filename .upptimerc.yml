@@ -151,7 +151,7 @@ sites:
     url: https://fulda.social
     icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
   - name: Mastodon Karlsruhe.social
-    url: https://karlsruhe.social
+    url: https://karlsruhe-social.de
     icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
