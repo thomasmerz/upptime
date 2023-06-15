@@ -8,6 +8,11 @@ sites:
     url: $URL_NEXTCLOUD
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png
     maxResponseTime: 3000
+  - name: Storagebox
+    check: "tcp-ping"
+    url: $URL_STORAGEBOX
+    port: 22
+    icon: https://cdn.hetzner.de/cdn/public/Uploads/icon-circle-storage-box.svg
 # --- PIHOLE
   - name: Pihole-NBG
     url: $URL_PIHOLE_DE
