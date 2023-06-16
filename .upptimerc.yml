@@ -108,6 +108,9 @@ sites:
   - name: Netdata-KA
     url: $URL_NETDATA_MERZ_NIMBUS
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
+  - name: Netdata-Karlsruhe.Social
+    url: $URL_NETDATA_KASOCIAL
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png
 # --- SPEEDTEST
   - name: Speedtest-NBG
     url: $URL_SPEEDTEST_DE
