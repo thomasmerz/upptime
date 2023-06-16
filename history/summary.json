@@ -493,18 +493,18 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-karlsruhe-social",
     "status": "down",
-    "uptime": "3.21%",
-    "uptimeDay": "3.21%",
-    "uptimeWeek": "3.21%",
-    "uptimeMonth": "3.21%",
-    "uptimeYear": "3.21%",
+    "uptime": "1.96%",
+    "uptimeDay": "1.96%",
+    "uptimeWeek": "1.96%",
+    "uptimeMonth": "1.96%",
+    "uptimeYear": "1.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 2
     }
   },
   {
