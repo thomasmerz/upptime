@@ -1,7 +1,7 @@
 url: $URL_SPEEDTEST_V2_MERZ_NIMBUS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-06-26T22:24:20.204Z
+status: up
+code: 200
+responseTime: 1371
+lastUpdated: 2023-06-26T22:35:34.164Z
 startTime: Tue Jun 13 2023 16:24:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
