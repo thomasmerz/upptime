@@ -13,7 +13,7 @@
     "time": 1293,
     "timeDay": 974,
     "timeWeek": 779,
-    "timeMonth": 1669,
+    "timeMonth": 1684,
     "timeYear": 1111,
     "dailyMinutesDown": {
       "2023-06-19": 5,
@@ -431,10 +431,10 @@
     "url": "$URL_NETDATA_FSN",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-fsn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
@@ -442,7 +442,9 @@
     "timeWeek": 369,
     "timeMonth": 354,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-30": 1
+    }
   },
   {
     "name": "Netdata-KA",
@@ -450,7 +452,7 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-ka",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
@@ -634,11 +636,11 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-fsn-1-1",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 740,
     "timeDay": 814,
     "timeWeek": 758,
