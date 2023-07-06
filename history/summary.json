@@ -493,19 +493,19 @@
     "url": "$URL_NETDATA_KASOCIAL",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-karlsruhe-social",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 429,
-    "timeWeek": 523,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 498,
+    "timeDay": 511,
+    "timeWeek": 532,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2023-07-06": 1
+      "2023-07-06": 22
     }
   },
   {
@@ -746,19 +746,19 @@
     "url": "https://karlsruhe-social.de",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg",
     "slug": "mastodon-karlsruhe-social",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 402,
-    "timeWeek": 514,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 647,
+    "timeDay": 628,
+    "timeWeek": 556,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2023-07-06": 1
+      "2023-07-06": 22
     }
   }
 ]
