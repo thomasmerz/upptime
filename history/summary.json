@@ -746,19 +746,19 @@
     "url": "https://karlsruhe-social.de",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg",
     "slug": "mastodon-karlsruhe-social",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 638,
-    "timeDay": 515,
-    "timeWeek": 527,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 632,
+    "timeDay": 489,
+    "timeWeek": 515,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2023-07-06": 23
+      "2023-07-06": 33
     }
   }
 ]
