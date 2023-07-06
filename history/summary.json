@@ -192,7 +192,7 @@
     "timeDay": 496,
     "timeWeek": 575,
     "timeMonth": 576,
-    "timeYear": 585,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2023-03-27": 510,
       "2023-03-26": 1440,
@@ -358,7 +358,7 @@
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-ka",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
@@ -461,7 +461,7 @@
     "time": 538,
     "timeDay": 359,
     "timeWeek": 487,
-    "timeMonth": 617,
+    "timeMonth": 620,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2023-06-30": 34,
@@ -493,10 +493,10 @@
     "url": "$URL_NETDATA_KASOCIAL",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-karlsruhe-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
@@ -504,7 +504,9 @@
     "timeWeek": 523,
     "timeMonth": 494,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-06": 1
+    }
   },
   {
     "name": "Speedtest-NBG",
@@ -639,11 +641,11 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-fsn-1-1",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
     "time": 735,
     "timeDay": 650,
     "timeWeek": 728,
@@ -744,10 +746,10 @@
     "url": "https://karlsruhe-social.de",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg",
     "slug": "mastodon-karlsruhe-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
@@ -755,6 +757,8 @@
     "timeWeek": 514,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-06": 1
+    }
   }
 ]
