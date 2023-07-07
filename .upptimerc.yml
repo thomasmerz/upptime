@@ -59,6 +59,13 @@ sites:
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
+  - name: Syncthing-Karlsruhe.social
+    url: $URL_SYNCTHING_KARLSRUHE_SOCIAL
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
 # --- PORTAINER
   - name: Portainer-NBG
     url: $URL_PORTAINER_DE
