@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -125,7 +125,7 @@
     "timeDay": 736,
     "timeWeek": 719,
     "timeMonth": 873,
-    "timeYear": 1244,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2023-06-30": 36,
       "2023-05-11": 48,
@@ -285,10 +285,10 @@
     "url": "$URL_SYNCTHING_KARLSRUHE_SOCIAL",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing-karlsruhe-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 704,
@@ -296,7 +296,9 @@
     "timeWeek": 646,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 1
+    }
   },
   {
     "name": "Portainer-NBG",
@@ -446,7 +448,7 @@
     "time": 330,
     "timeDay": 249,
     "timeWeek": 242,
-    "timeMonth": 312,
+    "timeMonth": 310,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -494,18 +496,19 @@
     "url": "$URL_NETDATA_KASOCIAL",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-karlsruhe-social",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 418,
     "timeDay": 248,
     "timeWeek": 241,
     "timeMonth": 382,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2023-07-31": 1,
       "2023-07-06": 22
     }
   },
@@ -640,11 +643,11 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-fsn-1-1",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 747,
     "timeDay": 728,
     "timeWeek": 719,
@@ -743,10 +746,10 @@
     "url": "https://karlsruhe-social.de",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg",
     "slug": "mastodon-karlsruhe-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.86%",
     "time": 599,
@@ -755,6 +758,7 @@
     "timeMonth": 539,
     "timeYear": 599,
     "dailyMinutesDown": {
+      "2023-07-31": 1,
       "2023-07-11": 74,
       "2023-07-06": 22
     }
