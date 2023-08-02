@@ -643,11 +643,11 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-fsn-1-1",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.71%",
     "time": 746,
     "timeDay": 800,
     "timeWeek": 694,
@@ -710,10 +710,10 @@
     "url": "$URL_DASHBOARDS_DE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboards-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
@@ -721,7 +721,9 @@
     "timeWeek": 244,
     "timeMonth": 262,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-02": 1
+    }
   },
   {
     "name": "Mastodon Fulda.social",
