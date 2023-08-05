@@ -710,10 +710,10 @@
     "url": "$URL_DASHBOARDS_DE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboards-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.79%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.87%",
     "time": 257,
@@ -722,6 +722,7 @@
     "timeMonth": 275,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2023-08-05": 1,
       "2023-08-02": 223
     }
   },
