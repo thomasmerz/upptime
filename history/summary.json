@@ -433,10 +433,10 @@
     "url": "$URL_NETDATA_FSN",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-fsn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
@@ -444,7 +444,9 @@
     "timeWeek": 204,
     "timeMonth": 239,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 1
+    }
   },
   {
     "name": "Netdata-KA",
@@ -509,10 +511,10 @@
     "url": "$URL_SPEEDTEST_DE",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 335,
@@ -521,6 +523,7 @@
     "timeMonth": 561,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2023-08-31": 1,
       "2022-09-02": 49
     }
   },
@@ -529,10 +532,10 @@
     "url": "$URL_SPEEDTEST_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
@@ -540,7 +543,9 @@
     "timeWeek": 390,
     "timeMonth": 414,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 1
+    }
   },
   {
     "name": "Speedtest-FSN",
@@ -594,10 +599,10 @@
     "url": "$URL_SPEEDTEST_V2_NBG1_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-nbg-1-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 968,
@@ -606,6 +611,7 @@
     "timeMonth": 956,
     "timeYear": 968,
     "dailyMinutesDown": {
+      "2023-08-31": 1,
       "2023-06-13": 45
     }
   },
@@ -614,10 +620,10 @@
     "url": "$URL_SPEEDTEST_V2_HEL1_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-hel-1-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1771,
@@ -626,6 +632,7 @@
     "timeMonth": 2064,
     "timeYear": 1771,
     "dailyMinutesDown": {
+      "2023-08-31": 1,
       "2023-06-13": 45
     }
   },
@@ -634,10 +641,10 @@
     "url": "$URL_SPEEDTEST_V2_FSN_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-fsn-1-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 742,
@@ -646,6 +653,7 @@
     "timeMonth": 732,
     "timeYear": 742,
     "dailyMinutesDown": {
+      "2023-08-31": 1,
       "2023-06-13": 210
     }
   },
