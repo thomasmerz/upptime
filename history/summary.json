@@ -4,19 +4,19 @@
     "url": "$URL_NEXTCLOUD",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.67%",
-    "time": 1265,
-    "timeDay": 738,
-    "timeWeek": 1937,
-    "timeMonth": 1181,
-    "timeYear": 1056,
+    "time": 1264,
+    "timeDay": 750,
+    "timeWeek": 1880,
+    "timeMonth": 1173,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2023-08-31": 18,
+      "2023-08-31": 22,
       "2023-08-27": 18,
       "2023-08-24": 16,
       "2023-08-22": 9,
@@ -511,9 +511,9 @@
     "slug": "speedtest-nbg",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "64.64%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "64.37%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.89%",
     "time": 335,
     "timeDay": 499,
@@ -521,7 +521,7 @@
     "timeMonth": 561,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2023-08-31": 509,
+      "2023-08-31": 513,
       "2022-09-02": 49
     }
   },
@@ -532,9 +532,9 @@
     "slug": "speedtest-hel",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "64.64%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "64.37%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
     "time": 372,
     "timeDay": 388,
@@ -542,7 +542,7 @@
     "timeMonth": 414,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-08-31": 509
+      "2023-08-31": 513
     }
   },
   {
@@ -599,9 +599,9 @@
     "slug": "speedtest-v2-nbg-1-1",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "64.64%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "64.37%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.51%",
     "time": 968,
     "timeDay": 866,
@@ -609,7 +609,7 @@
     "timeMonth": 956,
     "timeYear": 968,
     "dailyMinutesDown": {
-      "2023-08-31": 509,
+      "2023-08-31": 513,
       "2023-06-13": 45
     }
   },
@@ -620,9 +620,9 @@
     "slug": "speedtest-v2-hel-1-1",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "64.65%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "64.37%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.51%",
     "time": 1771,
     "timeDay": 1962,
@@ -630,7 +630,7 @@
     "timeMonth": 2064,
     "timeYear": 1771,
     "dailyMinutesDown": {
-      "2023-08-31": 509,
+      "2023-08-31": 513,
       "2023-06-13": 45
     }
   },
@@ -640,18 +640,18 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-fsn-1-1",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "64.65%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.36%",
+    "uptimeDay": "64.37%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.36%",
     "time": 742,
     "timeDay": 643,
     "timeWeek": 642,
     "timeMonth": 732,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2023-08-31": 509,
+      "2023-08-31": 513,
       "2023-06-13": 210
     }
   },
