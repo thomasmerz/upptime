@@ -1,7 +1,7 @@
 url: $URL_SPEEDTEST_V2_NBG1_1
-status: down
-code: 500
-responseTime: 473
-lastUpdated: 2023-09-06T03:14:54.027Z
+status: up
+code: 200
+responseTime: 1166
+lastUpdated: 2023-09-06T16:48:18.557Z
 startTime: 2023-06-13T16:24:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
