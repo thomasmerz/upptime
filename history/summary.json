@@ -95,19 +95,19 @@
     "url": "$URL_PIHOLE_FSN1",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole-fsn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 647,
-    "timeWeek": 538,
-    "timeMonth": 478,
-    "timeYear": 488,
+    "time": 489,
+    "timeDay": 646,
+    "timeWeek": 551,
+    "timeMonth": 483,
+    "timeYear": 489,
     "dailyMinutesDown": {
-      "2023-09-19": 1
+      "2023-09-19": 6
     }
   },
   {
@@ -338,19 +338,19 @@
     "url": "$URL_PORTAINER_FSN",
     "icon": "https://www.portainer.io/favicon.ico",
     "slug": "portainer-fsn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 699,
-    "timeWeek": 590,
-    "timeMonth": 523,
-    "timeYear": 532,
+    "time": 533,
+    "timeDay": 691,
+    "timeWeek": 601,
+    "timeMonth": 528,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2023-09-19": 1
+      "2023-09-19": 5
     }
   },
   {
@@ -550,19 +550,19 @@
     "url": "$URL_SPEEDTEST_FSN",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-fsn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 266,
+    "time": 267,
     "timeDay": 341,
-    "timeWeek": 289,
-    "timeMonth": 261,
-    "timeYear": 266,
+    "timeWeek": 296,
+    "timeMonth": 263,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-09-19": 2
+      "2023-09-19": 5
     }
   },
   {
