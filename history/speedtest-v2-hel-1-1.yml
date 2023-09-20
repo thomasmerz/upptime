@@ -1,7 +1,7 @@
 url: $URL_SPEEDTEST_V2_HEL1_1
-status: down
-code: 500
-responseTime: 1560
-lastUpdated: 2023-09-20T03:13:11.759Z
+status: up
+code: 200
+responseTime: 2661
+lastUpdated: 2023-09-20T08:10:32.059Z
 startTime: 2023-06-13T16:24:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
