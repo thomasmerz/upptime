@@ -1,7 +1,7 @@
 url: $URL_SPEEDTEST_DE
-status: down
-code: 500
-responseTime: 866
-lastUpdated: 2023-09-20T03:12:59.058Z
+status: up
+code: 200
+responseTime: 1139
+lastUpdated: 2023-09-20T06:48:00.787Z
 startTime: 2022-02-11T20:48:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
