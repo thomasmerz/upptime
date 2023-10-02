@@ -163,6 +163,10 @@ sites:
 # --- DASHBOARDS: dnspingtest, pingtest (ka-only), speedtest (ka-only)
   - name: Dashboards-NBG
     url: $URL_DASHBOARDS_DE
+  - name: Dashboards-HEL
+    url: $URL_DASHBOARDS_HEL
+  - name: Dashboards-FSN
+    url: $URL_DASHBOARDS_FSN
 # --- MASTODON
   - name: Mastodon Fulda.social
     url: https://fulda.social
