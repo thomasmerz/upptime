@@ -38,6 +38,13 @@ sites:
     expectedStatusCodes:
       - 401
     __dangerous__insecure: true
+  - name: Syncthing-FSN
+    url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FSN
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 401
+    __dangerous__insecure: true
   - name: Syncthing-HEL
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
