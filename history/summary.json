@@ -467,19 +467,19 @@
     "url": "$URL_NETDATA_FSN",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-fsn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 182,
-    "timeWeek": 240,
-    "timeMonth": 223,
+    "timeDay": 229,
+    "timeWeek": 244,
+    "timeMonth": 225,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-10-26": 1
+      "2023-10-26": 7
     }
   },
   {
