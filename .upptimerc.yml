@@ -71,7 +71,7 @@ sites:
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
-      - 401
+      - 200
     __dangerous__insecure: true
 # --- PORTAINER
   - name: Portainer-NBG
