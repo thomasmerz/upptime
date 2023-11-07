@@ -311,8 +311,8 @@
     "slug": "syncthing-karlsruhe-social",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "70.17%",
-    "uptimeWeek": "95.74%",
+    "uptimeDay": "70.08%",
+    "uptimeWeek": "95.73%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.71%",
     "time": 686,
@@ -321,7 +321,7 @@
     "timeMonth": 672,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-11-07": 429,
+      "2023-11-07": 431,
       "2023-07-31": 92
     }
   },
