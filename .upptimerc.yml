@@ -57,14 +57,14 @@ sites:
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
-      - 401
+      - 200
     __dangerous__insecure: true
   - name: Syncthing-KA-BI
     url: $URL_SYNCTHING_MERZ_NIMBUS_BI
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
-      - 401
+      - 200
     __dangerous__insecure: true
   - name: Syncthing-Karlsruhe.social
     url: $URL_SYNCTHING_KARLSRUHE_SOCIAL
