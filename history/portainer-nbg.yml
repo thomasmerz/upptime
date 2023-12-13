@@ -1,7 +1,7 @@
 url: $URL_PORTAINER_DE
-status: degraded
+status: up
 code: 200
-responseTime: 6325
-lastUpdated: 2023-12-13T04:16:19.275Z
+responseTime: 1127
+lastUpdated: 2023-12-13T04:24:56.529Z
 startTime: 2021-02-16T22:44:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
