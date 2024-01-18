@@ -1,7 +1,7 @@
 url: $URL_PORTAINER_MERZ_NIMBUS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-18T10:08:34.138Z
+status: up
+code: 200
+responseTime: 835
+lastUpdated: 2024-01-18T14:02:17.015Z
 startTime: 2021-02-16T22:44:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
