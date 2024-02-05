@@ -1,7 +1,7 @@
 url: $URL_SYNCTHING_MERZ_NIMBUS_BI
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-05T09:13:33.672Z
+status: up
+code: 200
+responseTime: 1377
+lastUpdated: 2024-02-05T09:25:12.901Z
 startTime: 2021-02-16T22:44:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
