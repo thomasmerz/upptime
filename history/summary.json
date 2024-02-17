@@ -61,15 +61,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 317,
     "timeDay": 273,
     "timeWeek": 283,
     "timeMonth": 339,
     "timeYear": 351,
-    "dailyMinutesDown": {
-      "2023-02-17": 846
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pihole-HEL",
@@ -81,15 +79,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 405,
     "timeDay": 351,
     "timeWeek": 360,
     "timeMonth": 415,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-09-12": 15,
-      "2023-02-17": 846
+      "2023-09-12": 15
     }
   },
   {
