@@ -3,4 +3,10 @@
   "extends": [
     "config:recommended"
   ]
+  "packageRules": [
+    {
+      automerge: true,
+      matchUpdateTypes: ["patch"]
+    }
+  ]
 }
