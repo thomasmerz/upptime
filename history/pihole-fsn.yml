@@ -1,7 +1,7 @@
 url: $URL_PIHOLE_FSN1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-31T04:40:32.420Z
+status: up
+code: 200
+responseTime: 417
+lastUpdated: 2024-05-31T04:45:17.430Z
 startTime: 2023-06-13T19:30:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
