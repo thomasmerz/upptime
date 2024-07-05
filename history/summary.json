@@ -750,7 +750,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboards-nbg",
     "status": "up",
-    "uptime": "96.07%",
+    "uptime": "96.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
@@ -942,19 +942,19 @@
     "url": "https://cdn.media.ccc.de",
     "icon": "https://media.ccc.de/assets/frontend/voctocat-header-b587ba587ba768c4a96ed33ee72747b9a5432b954892e25ed9f850a99c7d161c.svg",
     "slug": "cdn-for-media-ccc",
-    "status": "down",
-    "uptime": "12.54%",
-    "uptimeDay": "12.54%",
-    "uptimeWeek": "12.54%",
-    "uptimeMonth": "12.54%",
-    "uptimeYear": "12.54%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 1020,
+    "timeDay": 1020,
+    "timeWeek": 1020,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {
-      "2024-07-05": 2
+      "2024-07-05": 219
     }
   }
 ]
