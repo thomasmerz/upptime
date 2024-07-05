@@ -943,18 +943,18 @@
     "icon": "https://media.ccc.de/assets/frontend/voctocat-header-b587ba587ba768c4a96ed33ee72747b9a5432b954892e25ed9f850a99c7d161c.svg",
     "slug": "cdn-for-media-ccc",
     "status": "down",
-    "uptime": "21.19%",
-    "uptimeDay": "21.19%",
-    "uptimeWeek": "21.19%",
-    "uptimeMonth": "21.19%",
-    "uptimeYear": "21.19%",
+    "uptime": "12.54%",
+    "uptimeDay": "12.54%",
+    "uptimeWeek": "12.54%",
+    "uptimeMonth": "12.54%",
+    "uptimeYear": "12.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-05": 1
+      "2024-07-05": 2
     }
   }
 ]
