@@ -162,6 +162,10 @@ sites:
   - name: Mastodon Karlsruhe.social
     url: https://karlsruhe-social.de
     icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
+# --- MISC
+  - name: CDN for Media CCC
+    url: https://cdn.media.ccc.de
+    icon: https://media.ccc.de/assets/frontend/voctocat-header-b587ba587ba768c4a96ed33ee72747b9a5432b954892e25ed9f850a99c7d161c.svg
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
