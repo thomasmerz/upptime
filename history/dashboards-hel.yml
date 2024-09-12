@@ -1,7 +1,7 @@
 url: $URL_DASHBOARDS_HEL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-12T22:45:06.378Z
+status: up
+code: 200
+responseTime: 22446
+lastUpdated: 2024-09-12T22:59:28.671Z
 startTime: 2023-10-02T14:05:42.174Z
 generator: Upptime <https://github.com/upptime/upptime>
