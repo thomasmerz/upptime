@@ -1,7 +1,7 @@
 url: $URL_PIHOLE_FI
-status: degraded
+status: up
 code: 200
-responseTime: 18211
-lastUpdated: 2024-09-12T23:30:07.794Z
+responseTime: 975
+lastUpdated: 2024-09-12T23:41:16.576Z
 startTime: 2021-02-16T22:44:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
