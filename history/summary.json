@@ -82,7 +82,7 @@
     "timeDay": 3442,
     "timeWeek": 2063,
     "timeMonth": 922,
-    "timeYear": 490,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2024-08-22": 141
     }
@@ -272,7 +272,7 @@
     "timeDay": 2740,
     "timeWeek": 1482,
     "timeMonth": 967,
-    "timeYear": 951,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2024-08-22": 166,
       "2024-07-30": 50,
@@ -440,7 +440,7 @@
     "timeDay": 1469,
     "timeWeek": 872,
     "timeMonth": 691,
-    "timeYear": 778,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2024-04-24": 127,
       "2023-10-23": 786,
@@ -658,19 +658,19 @@
     "url": "$URL_SPEEDTEST_V2_HEL1_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-hel-1-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "88.82%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "89.02%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.48%",
     "time": 3425,
-    "timeDay": 23067,
+    "timeDay": 23247,
     "timeWeek": 20215,
     "timeMonth": 12718,
-    "timeYear": 3833,
+    "timeYear": 3802,
     "dailyMinutesDown": {
-      "2024-09-12": 96,
+      "2024-09-12": 93,
       "2024-09-11": 65,
       "2023-10-05": 717,
       "2023-10-04": 1246,
@@ -908,7 +908,7 @@
     "timeDay": 906,
     "timeWeek": 1105,
     "timeMonth": 1019,
-    "timeYear": 1005,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2024-08-29": 247,
       "2024-08-28": 29,
