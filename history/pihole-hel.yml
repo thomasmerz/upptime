@@ -1,7 +1,7 @@
 url: $URL_PIHOLE_FI
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-13T03:41:38.675Z
+status: up
+code: 200
+responseTime: 961
+lastUpdated: 2024-09-13T04:02:44.568Z
 startTime: 2021-02-16T22:44:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
