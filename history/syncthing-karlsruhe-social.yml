@@ -1,7 +1,7 @@
 url: $URL_SYNCTHING_KARLSRUHE_SOCIAL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-03T10:54:12.407Z
+status: up
+code: 200
+responseTime: 1017
+lastUpdated: 2024-10-03T10:58:57.087Z
 startTime: 2023-07-07T07:37:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
