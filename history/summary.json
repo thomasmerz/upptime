@@ -874,11 +874,11 @@
     "url": "https://cdn.media.ccc.de",
     "icon": "https://media.ccc.de/assets/frontend/voctocat-header-b587ba587ba768c4a96ed33ee72747b9a5432b954892e25ed9f850a99c7d161c.svg",
     "slug": "cdn-for-media-ccc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "86.46%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.46%",
     "time": 1174,
     "timeDay": 2277,
@@ -886,7 +886,7 @@
     "timeMonth": 1408,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2024-12-30": 194,
+      "2024-12-30": 195,
       "2024-07-17": 897,
       "2024-07-05": 295
     }
