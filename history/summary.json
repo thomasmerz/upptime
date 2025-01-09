@@ -93,19 +93,19 @@
     "url": "$URL_PIHOLE_FSN1",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole-fsn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 463,
-    "timeDay": 379,
-    "timeWeek": 477,
-    "timeMonth": 517,
+    "timeDay": 425,
+    "timeWeek": 476,
+    "timeMonth": 515,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-01-09": 1
+      "2025-01-09": 5
     }
   },
   {
