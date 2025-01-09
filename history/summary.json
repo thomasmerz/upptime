@@ -93,10 +93,10 @@
     "url": "$URL_PIHOLE_FSN1",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole-fsn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 463,
@@ -104,7 +104,9 @@
     "timeWeek": 477,
     "timeMonth": 517,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 1
+    }
   },
   {
     "name": "Pihole-KA",
@@ -151,7 +153,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.64%",
     "time": 664,
     "timeDay": 478,
     "timeWeek": 598,
@@ -711,7 +713,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.16%",
+    "uptimeYear": "98.21%",
     "time": 345,
     "timeDay": 238,
     "timeWeek": 288,
@@ -764,7 +766,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboards-hel",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
