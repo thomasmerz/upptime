@@ -165,7 +165,7 @@ sites:
 # --- MISC
   - name: CDN for Media CCC
     url: https://cdn.media.ccc.de
-    icon: https://media.ccc.de/assets/frontend/voctocat-header-b587ba587ba768c4a96ed33ee72747b9a5432b954892e25ed9f850a99c7d161c.svg
+    icon: https://blinry.org/voctocat/voctocat.svg
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
