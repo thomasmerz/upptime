@@ -1,7 +1,7 @@
 url: $URL_PIHOLE_FSN1
-status: degraded
+status: up
 code: 200
-responseTime: 6006
-lastUpdated: 2025-04-03T03:20:44.179Z
+responseTime: 5998
+lastUpdated: 2025-04-03T03:35:12.670Z
 startTime: 2023-06-13T19:30:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
