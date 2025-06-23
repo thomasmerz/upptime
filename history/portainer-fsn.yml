@@ -1,7 +1,7 @@
 url: $URL_PORTAINER_FSN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-23T14:18:48.927Z
+status: up
+code: 200
+responseTime: 549
+lastUpdated: 2025-06-23T14:29:01.656Z
 startTime: 2023-06-13T19:36:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
