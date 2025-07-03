@@ -168,7 +168,7 @@ sites:
     icon: https://blinry.org/voctocat/voctocat.svg
   - name: Codeberg
     url: https://codeberg.org/thomasmerz
-    icon: https://design.codeberg.org/logo-kit/icon_inverted.svg
+    icon: https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/png/codeberg-logo_icon_blue-512x512.png
   - name: Forgejo
     url: https://code.forgejo.org/thomasmerz
     icon: https://code.forgejo.org/assets/img/logo.svg
