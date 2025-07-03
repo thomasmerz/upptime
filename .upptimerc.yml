@@ -172,6 +172,12 @@ sites:
   - name: Forgejo
     url: https://code.forgejo.org/thomasmerz
     icon: https://code.forgejo.org/assets/img/logo.svg
+  - name: GitHub
+    url: https://github.com/thomasmerz/
+    iron: https://github.com/fluidicon.png
+  - name: GitLab
+    url: https://gitlab.com/explore
+    iron: https://about.gitlab.com/
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
