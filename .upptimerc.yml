@@ -175,7 +175,6 @@ sites:
   - name: Gitea
     url: https://gitea.com/explore/repos
     iron: https://gitea.com/assets/img/logo.svg
-  - name: GitLab
   - name: GitHub
     url: https://github.com/thomasmerz/
     iron: https://github.com/fluidicon.png
