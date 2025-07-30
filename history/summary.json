@@ -679,9 +679,9 @@
     "slug": "dashboards-nbg",
     "status": "down",
     "uptime": "97.84%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 295,
     "timeDay": 335,
@@ -689,7 +689,7 @@
     "timeMonth": 303,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-07-30": 1,
+      "2025-07-30": 19,
       "2025-02-03": 61,
       "2024-12-19": 21,
       "2024-11-12": 49,
@@ -702,10 +702,10 @@
     "url": "$URL_DASHBOARDS_HEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboards-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 1184,
@@ -714,6 +714,7 @@
     "timeMonth": 949,
     "timeYear": 1365,
     "dailyMinutesDown": {
+      "2025-07-30": 1,
       "2025-02-03": 59,
       "2024-11-29": 835,
       "2024-11-28": 173,
@@ -728,10 +729,10 @@
     "url": "$URL_DASHBOARDS_FSN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboards-fsn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 285,
@@ -740,6 +741,7 @@
     "timeMonth": 257,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2025-07-30": 1,
       "2025-06-23": 9,
       "2025-03-27": 292,
       "2025-02-03": 57,
@@ -752,46 +754,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "metalhead-heaven-nbg",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-07-30": 16
-    }
-  },
-  {
-    "name": "Metalhead-Heaven-HEL",
-    "url": "$URL_METALHEAD_HEL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "metalhead-heaven-hel",
-    "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-07-30": 16
-    }
-  },
-  {
-    "name": "Metalhead-Heaven-FSN",
-    "url": "$URL_METALHEAD_FSN",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "metalhead-heaven-fsn",
-    "status": "down",
     "uptime": "0.04%",
     "uptimeDay": "0.04%",
     "uptimeWeek": "0.04%",
@@ -803,7 +765,47 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 16
+      "2025-07-30": 34
+    }
+  },
+  {
+    "name": "Metalhead-Heaven-HEL",
+    "url": "$URL_METALHEAD_HEL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "metalhead-heaven-hel",
+    "status": "down",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-30": 34
+    }
+  },
+  {
+    "name": "Metalhead-Heaven-FSN",
+    "url": "$URL_METALHEAD_FSN",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "metalhead-heaven-fsn",
+    "status": "down",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-30": 34
     }
   },
   {
