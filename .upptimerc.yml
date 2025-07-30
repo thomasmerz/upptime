@@ -155,6 +155,13 @@ sites:
     url: $URL_DASHBOARDS_HEL
   - name: Dashboards-FSN
     url: $URL_DASHBOARDS_FSN
+# --- METALHEAD-HEAVEN
+  - name: Metalhead-Heaven-NBG
+    url: $URL_METALHEAD_NBG
+  - name: Metalhead-Heaven-HEL
+    url: $URL_METALHEAD_HEL
+  - name: Metalhead-Heaven-FSN
+    url: $URL_METALHEAD_FSN
 # --- MASTODON
   - name: Mastodon Fulda.social
     url: https://fulda.social
