@@ -151,17 +151,23 @@ sites:
 # --- DASHBOARDS: dnspingtest, pingtest (ka-only), speedtest (ka-only)
   - name: Dashboards-NBG
     url: $URL_DASHBOARDS_DE
+    __dangerous__insecure: true
   - name: Dashboards-HEL
     url: $URL_DASHBOARDS_HEL
+    __dangerous__insecure: true
   - name: Dashboards-FSN
     url: $URL_DASHBOARDS_FSN
+    __dangerous__insecure: true
 # --- METALHEAD-HEAVEN
   - name: Metalhead-Heaven-NBG
     url: $URL_METALHEAD_NBG
+    __dangerous__insecure: true
   - name: Metalhead-Heaven-HEL
     url: $URL_METALHEAD_HEL
+    __dangerous__insecure: true
   - name: Metalhead-Heaven-FSN
     url: $URL_METALHEAD_FSN
+    __dangerous__insecure: true
 # --- MASTODON
   - name: Mastodon Fulda.social
     url: https://fulda.social
