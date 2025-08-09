@@ -1,7 +1,7 @@
 url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
-status: degraded
+status: up
 code: 200
-responseTime: 5703
-lastUpdated: 2025-08-09T22:01:39.820Z
+responseTime: 1264
+lastUpdated: 2025-08-09T22:09:28.770Z
 startTime: 2021-02-16T22:44:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
