@@ -950,19 +950,19 @@
     "url": "https://github.com/thomasmerz/",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 1225,
-    "timeWeek": 580,
-    "timeMonth": 457,
-    "timeYear": 458,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 455,
+    "timeDay": 920,
+    "timeWeek": 550,
+    "timeMonth": 452,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-08-11": 1
+      "2025-08-11": 8
     }
   },
   {
