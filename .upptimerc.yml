@@ -76,21 +76,21 @@ sites:
 # --- PORTAINER
   - name: Portainer-NBG
     url: $URL_PORTAINER_DE
-    icon: https://www.portainer.io/favicon.ico
+    icon: https://products.containerize.com/devops/portainer/header_image.png
     maxResponseTime: 3000
   - name: Portainer-HEL
     url: $URL_PORTAINER_FI
-    icon: https://www.portainer.io/favicon.ico
+    icon: https://products.containerize.com/devops/portainer/header_image.png
     maxResponseTime: 3000
     __dangerous__disable_verify_host: true
   - name: Portainer-FSN
     url: $URL_PORTAINER_FSN
-    icon: https://www.portainer.io/favicon.ico
+    icon: https://products.containerize.com/devops/portainer/header_image.png
     maxResponseTime: 3000
     __dangerous__disable_verify_host: true
   - name: Portainer-KA
     url: $URL_PORTAINER_MERZ_NIMBUS
-    icon: https://www.portainer.io/favicon.ico
+    icon: https://products.containerize.com/devops/portainer/header_image.png
     __dangerous__disable_verify_host: true
 # --- WIREGUARD
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
