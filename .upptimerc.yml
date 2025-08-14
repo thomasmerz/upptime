@@ -161,12 +161,15 @@ sites:
 # --- METALHEAD-HEAVEN
   - name: Metalhead-Heaven-NBG
     url: $URL_METALHEAD_NBG
+    icon: https://attic.sh/as4wn0y7g7gk8gy2wmkg0hg76137
     __dangerous__insecure: true
   - name: Metalhead-Heaven-HEL
     url: $URL_METALHEAD_HEL
+    icon: https://attic.sh/as4wn0y7g7gk8gy2wmkg0hg76137
     __dangerous__insecure: true
   - name: Metalhead-Heaven-FSN
     url: $URL_METALHEAD_FSN
+    icon: https://attic.sh/as4wn0y7g7gk8gy2wmkg0hg76137
     __dangerous__insecure: true
 # --- MASTODON
   - name: Mastodon Fulda.social
