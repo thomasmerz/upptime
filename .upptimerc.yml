@@ -151,12 +151,15 @@ sites:
 # --- DASHBOARDS: dnspingtest, pingtest (ka-only), speedtest (ka-only)
   - name: Dashboards-NBG
     url: $URL_DASHBOARDS_DE
+    icon: https://raw.githubusercontent.com/9001/copyparty/hovudstraum/docs/logo.svg
     __dangerous__insecure: true
   - name: Dashboards-HEL
     url: $URL_DASHBOARDS_HEL
+    icon: https://raw.githubusercontent.com/9001/copyparty/hovudstraum/docs/logo.svg
     __dangerous__insecure: true
   - name: Dashboards-FSN
     url: $URL_DASHBOARDS_FSN
+    icon: https://raw.githubusercontent.com/9001/copyparty/hovudstraum/docs/logo.svg
     __dangerous__insecure: true
 # --- METALHEAD-HEAVEN
   - name: Metalhead-Heaven-NBG
