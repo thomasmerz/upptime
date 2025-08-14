@@ -16,19 +16,19 @@ sites:
 # --- PIHOLE
   - name: Pihole-NBG
     url: $URL_PIHOLE_DE
-    icon: https://pi-hole.net/favicon.ico
+    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     __dangerous__insecure: true
   - name: Pihole-HEL
     url: $URL_PIHOLE_FI
-    icon: https://pi-hole.net/favicon.ico
+    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     __dangerous__insecure: true
   - name: Pihole-FSN
     url: $URL_PIHOLE_FSN1
-    icon: https://pi-hole.net/favicon.ico
+    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     __dangerous__insecure: true
   - name: Pihole-KA
     url: $URL_PIHOLE_MERZ_NIMBUS
-    icon: https://pi-hole.net/favicon.ico
+    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     __dangerous__insecure: true
 # --- SYNCTHING
   - name: Syncthing-NBG
