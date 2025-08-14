@@ -12,63 +12,63 @@ sites:
     check: "tcp-ping"
     url: $URL_STORAGEBOX
     port: 22
-    icon: https://cdn.hetzner.de/cdn/public/Uploads/storage-box.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/cdn.hetzner.de-cdn-public-Uploads-storage-box.svg
 # --- PIHOLE
   - name: Pihole-NBG
     url: $URL_PIHOLE_DE
-    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/wp-cdn.pi-hole.net-wp-content-uploads-2016-12-Vortex-R.png
     __dangerous__insecure: true
   - name: Pihole-HEL
     url: $URL_PIHOLE_FI
-    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/wp-cdn.pi-hole.net-wp-content-uploads-2016-12-Vortex-R.png
     __dangerous__insecure: true
   - name: Pihole-FSN
     url: $URL_PIHOLE_FSN1
-    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/wp-cdn.pi-hole.net-wp-content-uploads-2016-12-Vortex-R.png
     __dangerous__insecure: true
   - name: Pihole-KA
     url: $URL_PIHOLE_MERZ_NIMBUS
-    icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/wp-cdn.pi-hole.net-wp-content-uploads-2016-12-Vortex-R.png
     __dangerous__insecure: true
 # --- SYNCTHING
   - name: Syncthing-NBG
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_DE
-    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
   - name: Syncthing-FSN
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FSN
-    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
   - name: Syncthing-HEL
     url: $URL_SYNCTHING_HETZNER_CLOUDSERVER_FI
-    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
   - name: Syncthing-KA-TM
     url: $URL_SYNCTHING_MERZ_NIMBUS_TM
-    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
   - name: Syncthing-KA-BI
     url: $URL_SYNCTHING_MERZ_NIMBUS_BI
-    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true
   - name: Syncthing-Karlsruhe.social
     url: $URL_SYNCTHING_KARLSRUHE_SOCIAL
-    icon: https://syncthing.net/img/favicons/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
@@ -76,21 +76,21 @@ sites:
 # --- PORTAINER
   - name: Portainer-NBG
     url: $URL_PORTAINER_DE
-    icon: https://products.containerize.com/devops/portainer/header_image.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/products.containerize.com-devops-portainer-header_image.png
     maxResponseTime: 3000
   - name: Portainer-HEL
     url: $URL_PORTAINER_FI
-    icon: https://products.containerize.com/devops/portainer/header_image.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/products.containerize.com-devops-portainer-header_image.png
     maxResponseTime: 3000
     __dangerous__disable_verify_host: true
   - name: Portainer-FSN
     url: $URL_PORTAINER_FSN
-    icon: https://products.containerize.com/devops/portainer/header_image.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/products.containerize.com-devops-portainer-header_image.png
     maxResponseTime: 3000
     __dangerous__disable_verify_host: true
   - name: Portainer-KA
     url: $URL_PORTAINER_MERZ_NIMBUS
-    icon: https://products.containerize.com/devops/portainer/header_image.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/products.containerize.com-devops-portainer-header_image.png
     __dangerous__disable_verify_host: true
 # --- WIREGUARD
 # TODO: no checking due to https://github.com/thomasmerz/upptime/issues/95
@@ -151,55 +151,55 @@ sites:
 # --- DASHBOARDS: dnspingtest, pingtest (ka-only), speedtest (ka-only)
   - name: Dashboards-NBG
     url: $URL_DASHBOARDS_DE
-    icon: https://raw.githubusercontent.com/9001/copyparty/hovudstraum/docs/logo.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/raw.githubusercontent.com-9001-copyparty-hovudstraum-docs-logo.svg
     __dangerous__insecure: true
   - name: Dashboards-HEL
     url: $URL_DASHBOARDS_HEL
-    icon: https://raw.githubusercontent.com/9001/copyparty/hovudstraum/docs/logo.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/raw.githubusercontent.com-9001-copyparty-hovudstraum-docs-logo.svg
     __dangerous__insecure: true
   - name: Dashboards-FSN
     url: $URL_DASHBOARDS_FSN
-    icon: https://raw.githubusercontent.com/9001/copyparty/hovudstraum/docs/logo.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/raw.githubusercontent.com-9001-copyparty-hovudstraum-docs-logo.svg
     __dangerous__insecure: true
 # --- METALHEAD-HEAVEN
   - name: Metalhead-Heaven-NBG
     url: $URL_METALHEAD_NBG
-    icon: https://attic.sh/as4wn0y7g7gk8gy2wmkg0hg76137
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137
     __dangerous__insecure: true
   - name: Metalhead-Heaven-HEL
     url: $URL_METALHEAD_HEL
-    icon: https://attic.sh/as4wn0y7g7gk8gy2wmkg0hg76137
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137
     __dangerous__insecure: true
   - name: Metalhead-Heaven-FSN
     url: $URL_METALHEAD_FSN
-    icon: https://attic.sh/as4wn0y7g7gk8gy2wmkg0hg76137
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137
     __dangerous__insecure: true
 # --- MASTODON
   - name: Mastodon Fulda.social
     url: https://fulda.social
-    icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/upload.wikimedia.org-wikipedia-commons-4-48-Mastodon_Logotype_%28Simple%29.svg
   - name: Mastodon Karlsruhe.social
     url: https://karlsruhe-social.de
-    icon: https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/upload.wikimedia.org-wikipedia-commons-4-48-Mastodon_Logotype_%28Simple%29.svg
 # --- MISC
   - name: CDN for Media CCC
     url: https://cdn.media.ccc.de
-    icon: https://blinry.org/voctocat/voctocat.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/blinry.org-voctocat-voctocat.svg
   - name: Codeberg
     url: https://codeberg.org/thomasmerz
-    icon: https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/png/codeberg-logo_icon_blue-512x512.png
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/codeberg.org-Codeberg-Design-raw-branch-main-logo-icon-png-codeberg-logo_icon_blue-512x512.png
   - name: Forgejo
     url: https://code.forgejo.org/thomasmerz
-    icon: https://code.forgejo.org/assets/img/logo.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/code.forgejo.org-assets-img-logo.svg
   - name: Gitea
     url: https://gitea.com/explore/repos
-    iron: https://gitea.com/assets/img/logo.svg
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg
   - name: GitHub
     url: https://github.com/thomasmerz/
-    iron: https://github.com/fluidicon.png
+    iron: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/github.com-fluidicon.png
   - name: GitLab
     url: https://gitlab.com/explore
-    iron: https://about.gitlab.com/
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/144_Gitlab_logo_logos-512.png
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
