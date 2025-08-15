@@ -177,10 +177,10 @@ sites:
 # --- MASTODON
   - name: Mastodon Fulda.social
     url: https://fulda.social
-    icon: "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/upload.wikimedia.org-wikipedia-commons-4-48-Mastodon_Logotype_%28Simple%29.svg"
+    icon: "https://raw.githubusercontent.com/thomasmerz/upptime/refs/heads/master/assets/upload.wikimedia.org-wikipedia-commons-4-48-Mastodon_Logotype_%2528Simple%2529.svg"
   - name: Mastodon Karlsruhe.social
     url: https://karlsruhe-social.de
-    icon: "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/upload.wikimedia.org-wikipedia-commons-4-48-Mastodon_Logotype_%28Simple%29.svg"
+    icon: "https://raw.githubusercontent.com/thomasmerz/upptime/refs/heads/master/assets/upload.wikimedia.org-wikipedia-commons-4-48-Mastodon_Logotype_%2528Simple%2529.svg"
 # --- MISC
   - name: CDN for Media CCC
     url: https://cdn.media.ccc.de
