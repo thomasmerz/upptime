@@ -52,24 +52,17 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/wp-cdn.pi-hole.net-wp-content-uploads-2016-12-Vortex-R.png",
     "slug": "pihole-nbg",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1117,
     "timeDay": 600,
     "timeWeek": 771,
     "timeMonth": 760,
     "timeYear": 1399,
-    "dailyMinutesDown": {
-      "2025-08-05": 19,
-      "2025-04-03": 5,
-      "2025-04-01": 284,
-      "2025-02-19": 191,
-      "2025-01-31": 84,
-      "2024-12-19": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pihole-HEL",
@@ -474,9 +467,7 @@
     "timeWeek": 498,
     "timeMonth": 498,
     "timeYear": 460,
-    "dailyMinutesDown": {
-      "2025-06-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata-KA",
@@ -484,28 +475,17 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-ka",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "100.00%",
     "time": 546,
     "timeDay": 576,
     "timeWeek": 641,
     "timeMonth": 680,
     "timeYear": 608,
-    "dailyMinutesDown": {
-      "2025-07-10": 19,
-      "2025-07-04": 26,
-      "2025-04-29": 20,
-      "2025-01-20": 34,
-      "2024-12-17": 54,
-      "2024-10-25": 67,
-      "2024-09-25": 16,
-      "2024-09-11": 64,
-      "2024-08-26": 502,
-      "2024-08-22": 202
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata-Karlsruhe.Social",
@@ -584,7 +564,7 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-hel-1-1",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -755,19 +735,17 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137",
     "slug": "metalhead-heaven-nbg",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 283,
     "timeWeek": 373,
     "timeMonth": 363,
     "timeYear": 363,
-    "dailyMinutesDown": {
-      "2025-07-30": 39
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Metalhead-Heaven-HEL",
@@ -775,11 +753,11 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137",
     "slug": "metalhead-heaven-hel",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 436,
     "timeDay": 364,
     "timeWeek": 456,
@@ -795,11 +773,11 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137",
     "slug": "metalhead-heaven-fsn",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 371,
     "timeDay": 298,
     "timeWeek": 385,
@@ -822,7 +800,7 @@
     "uptimeYear": "99.86%",
     "time": 958,
     "timeDay": 662,
-    "timeWeek": 1044,
+    "timeWeek": 1052,
     "timeMonth": 995,
     "timeYear": 980,
     "dailyMinutesDown": {
@@ -879,12 +857,12 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.86%",
     "time": 1216,
     "timeDay": 1030,
-    "timeWeek": 1623,
+    "timeWeek": 1662,
     "timeMonth": 1393,
     "timeYear": 1218,
     "dailyMinutesDown": {
@@ -898,18 +876,20 @@
     "url": "https://codeberg.org/thomasmerz",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/codeberg.org-Codeberg-Design-raw-branch-main-logo-icon-png-codeberg-logo_icon_blue-512x512.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 682,
-    "timeWeek": 702,
-    "timeMonth": 718,
-    "timeYear": 738,
-    "dailyMinutesDown": {}
+    "time": 743,
+    "timeDay": 868,
+    "timeWeek": 724,
+    "timeMonth": 726,
+    "timeYear": 743,
+    "dailyMinutesDown": {
+      "2025-08-18": 2
+    }
   },
   {
     "name": "Forgejo",
