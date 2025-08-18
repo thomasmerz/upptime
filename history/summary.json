@@ -898,19 +898,19 @@
     "url": "https://codeberg.org/thomasmerz",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/codeberg.org-Codeberg-Design-raw-branch-main-logo-icon-png-codeberg-logo_icon_blue-512x512.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 741,
-    "timeDay": 775,
-    "timeWeek": 720,
-    "timeMonth": 724,
-    "timeYear": 741,
+    "time": 872,
+    "timeDay": 2505,
+    "timeWeek": 1178,
+    "timeMonth": 909,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-08-18": 19
+      "2025-08-18": 20
     }
   },
   {
