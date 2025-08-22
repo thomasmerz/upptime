@@ -923,10 +923,10 @@
     "url": "https://gitea.com/explore/repos",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 604,
@@ -934,7 +934,9 @@
     "timeWeek": 620,
     "timeMonth": 600,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 2
+    }
   },
   {
     "name": "GitHub",
@@ -942,18 +944,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 486,
     "timeDay": 1191,
     "timeWeek": 672,
     "timeMonth": 514,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-08-22": 5,
       "2025-08-11": 8
     }
   },
