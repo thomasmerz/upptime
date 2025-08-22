@@ -923,19 +923,19 @@
     "url": "https://gitea.com/explore/repos",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 396,
-    "timeWeek": 620,
-    "timeMonth": 600,
-    "timeYear": 604,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 603,
+    "timeDay": 477,
+    "timeWeek": 612,
+    "timeMonth": 599,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-08-22": 2
+      "2025-08-22": 5
     }
   },
   {
