@@ -892,19 +892,19 @@
     "url": "https://code.forgejo.org/thomasmerz",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/code.forgejo.org-assets-img-logo.svg",
     "slug": "forgejo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 862,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 860,
     "timeDay": 683,
-    "timeWeek": 839,
-    "timeMonth": 857,
-    "timeYear": 862,
+    "timeWeek": 822,
+    "timeMonth": 852,
+    "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-09-28": 2
+      "2025-09-28": 7
     }
   },
   {
