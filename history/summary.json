@@ -8,12 +8,12 @@
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.31%",
+    "uptimeMonth": "96.21%",
     "uptimeYear": "98.31%",
     "time": 1502,
     "timeDay": 759,
     "timeWeek": 746,
-    "timeMonth": 2180,
+    "timeMonth": 2144,
     "timeYear": 1630,
     "dailyMinutesDown": {
       "2025-09-05": 633,
@@ -907,10 +907,10 @@
     "url": "https://gitea.com/explore/repos",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 601,
@@ -919,6 +919,7 @@
     "timeMonth": 604,
     "timeYear": 601,
     "dailyMinutesDown": {
+      "2025-10-04": 2,
       "2025-09-01": 31
     }
   },
