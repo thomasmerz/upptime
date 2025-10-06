@@ -908,18 +908,17 @@
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg",
     "slug": "gitea",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.87%",
     "time": 879,
     "timeDay": 4700,
     "timeWeek": 2532,
     "timeMonth": 1383,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2025-10-05": 4,
       "2025-10-04": 151,
       "2025-09-01": 31
     }
