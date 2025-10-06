@@ -907,11 +907,11 @@
     "url": "https://gitea.com/explore/repos",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "82.97%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "83.41%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.69%",
     "time": 884,
     "timeDay": 3521,
@@ -919,7 +919,7 @@
     "timeMonth": 1345,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-10-06": 245,
+      "2025-10-06": 239,
       "2025-10-04": 151,
       "2025-09-01": 31
     }
