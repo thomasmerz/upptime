@@ -950,19 +950,19 @@
     "url": "https://gitlab.com/explore",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/144_Gitlab_logo_logos-512.png",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 8307,
-    "timeWeek": 2880,
-    "timeMonth": 1403,
-    "timeYear": 949,
+    "time": 950,
+    "timeDay": 5907,
+    "timeWeek": 2683,
+    "timeMonth": 1394,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-10-07": 1
+      "2025-10-07": 7
     }
   }
 ]
