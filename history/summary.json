@@ -930,19 +930,19 @@
     "url": "https://gitlab.com/explore",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/144_Gitlab_logo_logos-512.png",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 944,
-    "timeDay": 870,
-    "timeWeek": 885,
-    "timeMonth": 939,
+    "timeDay": 946,
+    "timeWeek": 900,
+    "timeMonth": 941,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2025-11-17": 1
+      "2025-11-17": 5
     }
   }
 ]
