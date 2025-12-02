@@ -136,7 +136,7 @@
     "time": 1786,
     "timeDay": 1166,
     "timeWeek": 1090,
-    "timeMonth": 1139,
+    "timeMonth": 1149,
     "timeYear": 2051,
     "dailyMinutesDown": {
       "2025-11-11": 24,
@@ -230,7 +230,7 @@
     "time": 964,
     "timeDay": 1005,
     "timeWeek": 888,
-    "timeMonth": 1537,
+    "timeMonth": 1562,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2025-11-13": 44,
@@ -258,7 +258,7 @@
     "time": 1040,
     "timeDay": 896,
     "timeWeek": 860,
-    "timeMonth": 1354,
+    "timeMonth": 1375,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2025-11-13": 43,
@@ -368,7 +368,7 @@
     "time": 730,
     "timeDay": 748,
     "timeWeek": 722,
-    "timeMonth": 661,
+    "timeMonth": 665,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-11-11": 23,
@@ -451,7 +451,7 @@
     "time": 622,
     "timeDay": 791,
     "timeWeek": 727,
-    "timeMonth": 651,
+    "timeMonth": 656,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2025-11-11": 23,
@@ -583,7 +583,7 @@
     "time": 1488,
     "timeDay": 1569,
     "timeWeek": 1450,
-    "timeMonth": 1401,
+    "timeMonth": 1408,
     "timeYear": 1436,
     "dailyMinutesDown": {
       "2025-11-11": 22,
@@ -829,11 +829,11 @@
     "url": "https://codeberg.org/thomasmerz",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/codeberg.org-Codeberg-Design-raw-branch-main-logo-icon-png-codeberg-logo_icon_blue-512x512.png",
     "slug": "codeberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.72%",
     "time": 1311,
     "timeDay": 958,
@@ -841,7 +841,7 @@
     "timeMonth": 1322,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2025-12-02": 10,
+      "2025-12-02": 2,
       "2025-11-27": 23,
       "2025-11-22": 23,
       "2025-11-18": 38,
