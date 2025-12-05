@@ -929,19 +929,19 @@
     "url": "https://gitlab.com/explore",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/144_Gitlab_logo_logos-512.png",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 1168,
-    "timeWeek": 1506,
-    "timeMonth": 1220,
-    "timeYear": 1001,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1002,
+    "timeDay": 1122,
+    "timeWeek": 1458,
+    "timeMonth": 1215,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-12-05": 2
+      "2025-12-05": 25
     }
   }
 ]
