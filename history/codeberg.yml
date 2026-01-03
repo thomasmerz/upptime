@@ -1,7 +1,7 @@
 url: https://codeberg.org/thomasmerz
-status: up
-code: 200
-responseTime: 753
-lastUpdated: 2026-01-02T23:02:14.178Z
+status: down
+code: 503
+responseTime: 16352
+lastUpdated: 2026-01-03T05:04:23.351Z
 startTime: 2025-07-03T14:54:15.915Z
 generator: Upptime <https://github.com/upptime/upptime>
