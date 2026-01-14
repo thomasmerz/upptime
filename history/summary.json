@@ -102,9 +102,9 @@
     "slug": "pihole-fsn",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
     "time": 1375,
     "timeDay": 804,
@@ -112,7 +112,6 @@
     "timeMonth": 908,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2026-01-14": 3,
       "2026-01-08": 15,
       "2025-08-14": 38,
       "2025-06-23": 11,
@@ -178,9 +177,9 @@
     "slug": "syncthing-fsn",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 615,
     "timeDay": 629,
@@ -188,7 +187,6 @@
     "timeMonth": 648,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2026-01-14": 3,
       "2025-06-23": 11,
       "2025-06-05": 19,
       "2025-02-03": 78,
@@ -334,8 +332,8 @@
     "slug": "portainer-fsn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 544,
@@ -344,7 +342,6 @@
     "timeMonth": 573,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2026-01-14": 2,
       "2025-06-23": 10,
       "2025-06-05": 19
     }
@@ -508,36 +505,40 @@
     "url": "$URL_SPEEDTEST_V2_NBG1_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-nbg-1-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1096,
+    "time": 1095,
     "timeDay": 983,
     "timeWeek": 1184,
     "timeMonth": 1146,
     "timeYear": 1092,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 2
+    }
   },
   {
     "name": "Speedtest-v2-HEL1-1",
     "url": "$URL_SPEEDTEST_V2_HEL1_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-hel-1-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1688,
+    "time": 1687,
     "timeDay": 1566,
     "timeWeek": 1970,
     "timeMonth": 1721,
     "timeYear": 1681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 2
+    }
   },
   {
     "name": "Speedtest-v2-FSN1-1",
