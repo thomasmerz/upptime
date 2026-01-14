@@ -505,19 +505,19 @@
     "url": "$URL_SPEEDTEST_V2_NBG1_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-nbg-1-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1095,
-    "timeDay": 983,
-    "timeWeek": 1184,
-    "timeMonth": 1146,
+    "timeDay": 924,
+    "timeWeek": 1144,
+    "timeMonth": 1138,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2026-01-14": 2
+      "2026-01-14": 10
     }
   },
   {
@@ -525,19 +525,19 @@
     "url": "$URL_SPEEDTEST_V2_HEL1_1",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-hel-1-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1687,
-    "timeDay": 1566,
-    "timeWeek": 1970,
-    "timeMonth": 1721,
-    "timeYear": 1681,
+    "time": 1684,
+    "timeDay": 1433,
+    "timeWeek": 1886,
+    "timeMonth": 1707,
+    "timeYear": 1680,
     "dailyMinutesDown": {
-      "2026-01-14": 2
+      "2026-01-14": 10
     }
   },
   {
