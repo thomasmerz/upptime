@@ -1,7 +1,7 @@
 url: https://gitea.com/explore/repos
-status: up
-code: 200
-responseTime: 2186
-lastUpdated: 2026-01-17T13:01:02.094Z
+status: down
+code: 502
+responseTime: 281
+lastUpdated: 2026-01-17T21:45:26.068Z
 startTime: 2025-07-04T08:31:45.935Z
 generator: Upptime <https://github.com/upptime/upptime>
