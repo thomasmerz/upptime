@@ -185,15 +185,15 @@ sites:
   - name: CDN for Media CCC
     url: https://cdn.media.ccc.de
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/blinry.org-voctocat-voctocat.svg
-  - name: Codeberg
-    url: https://codeberg.org/thomasmerz
-    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/codeberg.org-Codeberg-Design-raw-branch-main-logo-icon-png-codeberg-logo_icon_blue-512x512.png
-  - name: Forgejo
-    url: https://code.forgejo.org/thomasmerz
-    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/code.forgejo.org-assets-img-logo.svg
-  - name: Gitea
-    url: https://gitea.com/explore/repos
-    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg
+    #- name: Codeberg
+    #url: https://codeberg.org/thomasmerz
+    #icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/codeberg.org-Codeberg-Design-raw-branch-main-logo-icon-png-codeberg-logo_icon_blue-512x512.png
+    #- name: Forgejo
+    #url: https://code.forgejo.org/thomasmerz
+    #icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/code.forgejo.org-assets-img-logo.svg
+    #- name: Gitea
+    #url: https://gitea.com/explore/repos
+    #icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/gitea.com-assets-img-logo.svg
   - name: GitHub
     url: https://github.com/thomasmerz/
     iron: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/github.com-fluidicon.png
