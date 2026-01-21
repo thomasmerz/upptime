@@ -14,7 +14,7 @@
     "timeDay": 1089,
     "timeWeek": 1133,
     "timeMonth": 934,
-    "timeYear": 1619,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2026-01-19": 15,
       "2025-09-05": 633,
@@ -65,7 +65,7 @@
     "timeDay": 992,
     "timeWeek": 865,
     "timeMonth": 826,
-    "timeYear": 1577,
+    "timeYear": 1581,
     "dailyMinutesDown": {
       "2025-08-05": 19,
       "2025-04-03": 5,
@@ -89,7 +89,7 @@
     "timeDay": 1096,
     "timeWeek": 994,
     "timeMonth": 968,
-    "timeYear": 1695,
+    "timeYear": 1698,
     "dailyMinutesDown": {
       "2025-04-03": 5,
       "2025-04-01": 290,
@@ -109,7 +109,7 @@
     "uptimeYear": "99.91%",
     "time": 1379,
     "timeDay": 1015,
-    "timeWeek": 868,
+    "timeWeek": 873,
     "timeMonth": 927,
     "timeYear": 1766,
     "dailyMinutesDown": {
@@ -181,7 +181,7 @@
     "uptimeYear": "99.98%",
     "time": 617,
     "timeDay": 800,
-    "timeWeek": 686,
+    "timeWeek": 694,
     "timeMonth": 666,
     "timeYear": 624,
     "dailyMinutesDown": {
@@ -205,7 +205,7 @@
     "timeDay": 979,
     "timeWeek": 1023,
     "timeMonth": 1040,
-    "timeYear": 873,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2025-02-03": 76
     }
@@ -333,7 +333,7 @@
     "uptimeYear": "99.99%",
     "time": 545,
     "timeDay": 693,
-    "timeWeek": 605,
+    "timeWeek": 607,
     "timeMonth": 588,
     "timeYear": 543,
     "dailyMinutesDown": {
@@ -381,7 +381,7 @@
     "timeDay": 717,
     "timeWeek": 609,
     "timeMonth": 665,
-    "timeYear": 620,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   },
   {
@@ -415,7 +415,7 @@
     "uptimeYear": "100.00%",
     "time": 498,
     "timeDay": 829,
-    "timeWeek": 600,
+    "timeWeek": 599,
     "timeMonth": 557,
     "timeYear": 497,
     "dailyMinutesDown": {
@@ -506,9 +506,9 @@
     "uptimeYear": "100.00%",
     "time": 1095,
     "timeDay": 1185,
-    "timeWeek": 1046,
+    "timeWeek": 1068,
     "timeMonth": 1125,
-    "timeYear": 1091,
+    "timeYear": 1090,
     "dailyMinutesDown": {}
   },
   {
@@ -524,7 +524,7 @@
     "uptimeYear": "100.00%",
     "time": 1681,
     "timeDay": 1640,
-    "timeWeek": 1499,
+    "timeWeek": 1524,
     "timeMonth": 1678,
     "timeYear": 1673,
     "dailyMinutesDown": {}
@@ -542,7 +542,7 @@
     "uptimeYear": "100.00%",
     "time": 873,
     "timeDay": 958,
-    "timeWeek": 875,
+    "timeWeek": 824,
     "timeMonth": 910,
     "timeYear": 877,
     "dailyMinutesDown": {
@@ -650,7 +650,7 @@
     "uptimeYear": "99.93%",
     "time": 323,
     "timeDay": 519,
-    "timeWeek": 436,
+    "timeWeek": 429,
     "timeMonth": 414,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -705,18 +705,19 @@
     "url": "$URL_METALHEAD_FSN",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137",
     "slug": "metalhead-heaven-fsn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 387,
     "timeDay": 469,
-    "timeWeek": 440,
+    "timeWeek": 433,
     "timeMonth": 413,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2026-01-21": 2,
       "2025-07-30": 39
     }
   },
