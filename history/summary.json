@@ -131,7 +131,7 @@
     "time": 1808,
     "timeDay": 931,
     "timeWeek": 966,
-    "timeMonth": 1284,
+    "timeMonth": 1295,
     "timeYear": 2129,
     "dailyMinutesDown": {
       "2026-02-13": 26,
@@ -151,12 +151,12 @@
     "slug": "syncthing-nbg",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "85.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "89.15%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.79%",
     "time": 611,
-    "timeDay": 685,
+    "timeDay": 563,
     "timeWeek": 616,
     "timeMonth": 651,
     "timeYear": 615,
@@ -220,8 +220,8 @@
     "time": 958,
     "timeDay": 657,
     "timeWeek": 747,
-    "timeMonth": 1364,
-    "timeYear": 983,
+    "timeMonth": 1383,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2026-02-13": 57,
       "2026-01-23": 51,
@@ -248,7 +248,7 @@
     "time": 1025,
     "timeDay": 763,
     "timeWeek": 751,
-    "timeMonth": 1578,
+    "timeMonth": 1600,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2026-02-13": 19,
@@ -355,7 +355,7 @@
     "time": 765,
     "timeDay": 603,
     "timeWeek": 893,
-    "timeMonth": 1215,
+    "timeMonth": 1235,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2026-02-13": 63,
@@ -391,10 +391,10 @@
     "url": "$URL_NETDATA_FI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-hel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
@@ -402,7 +402,9 @@
     "timeWeek": 619,
     "timeMonth": 942,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-25": 2
+    }
   },
   {
     "name": "Netdata-FSN",
@@ -433,12 +435,12 @@
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.88%",
     "time": 720,
     "timeDay": 540,
     "timeWeek": 585,
-    "timeMonth": 1464,
+    "timeMonth": 1491,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2026-02-13": 15,
@@ -569,7 +571,7 @@
     "time": 1448,
     "timeDay": 1151,
     "timeWeek": 1180,
-    "timeMonth": 1699,
+    "timeMonth": 1712,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2026-02-13": 19,
