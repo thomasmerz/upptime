@@ -14,7 +14,7 @@
     "timeDay": 989,
     "timeWeek": 824,
     "timeMonth": 932,
-    "timeYear": 1622,
+    "timeYear": 1623,
     "dailyMinutesDown": {
       "2026-01-19": 15,
       "2025-09-05": 633,
@@ -36,10 +36,10 @@
     "url": "$URL_STORAGEBOX",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/cdn.hetzner.de-cdn-public-Uploads-storage-box.svg",
     "slug": "storagebox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
@@ -47,7 +47,9 @@
     "timeWeek": 120,
     "timeMonth": 128,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-26": 1
+    }
   },
   {
     "name": "Pihole-NBG",
@@ -64,7 +66,7 @@
     "timeDay": 877,
     "timeWeek": 750,
     "timeMonth": 808,
-    "timeYear": 1647,
+    "timeYear": 1649,
     "dailyMinutesDown": {
       "2025-08-05": 19,
       "2025-04-03": 5,
@@ -86,7 +88,7 @@
     "timeDay": 1015,
     "timeWeek": 888,
     "timeMonth": 934,
-    "timeYear": 1753,
+    "timeYear": 1757,
     "dailyMinutesDown": {
       "2025-04-03": 5,
       "2025-04-01": 290
@@ -132,7 +134,7 @@
     "timeDay": 1026,
     "timeWeek": 952,
     "timeMonth": 1288,
-    "timeYear": 2129,
+    "timeYear": 2133,
     "dailyMinutesDown": {
       "2026-02-13": 26,
       "2026-01-23": 51,
@@ -393,18 +395,16 @@
     "slug": "netdata-hel",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
     "timeDay": 635,
     "timeWeek": 602,
     "timeMonth": 930,
     "timeYear": 683,
-    "dailyMinutesDown": {
-      "2026-02-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata-FSN",
@@ -516,7 +516,7 @@
     "timeDay": 1096,
     "timeWeek": 968,
     "timeMonth": 1023,
-    "timeYear": 1087,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   },
   {
