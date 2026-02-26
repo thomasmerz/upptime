@@ -36,19 +36,19 @@
     "url": "$URL_STORAGEBOX",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/cdn.hetzner.de-cdn-public-Uploads-storage-box.svg",
     "slug": "storagebox",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 142,
-    "timeWeek": 120,
-    "timeMonth": 128,
+    "timeDay": 144,
+    "timeWeek": 123,
+    "timeMonth": 129,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2026-02-26": 1
+      "2026-02-26": 13
     }
   },
   {
@@ -151,10 +151,10 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_DE",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png",
     "slug": "syncthing-nbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.15%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "89.14%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.79%",
     "time": 611,
@@ -163,6 +163,7 @@
     "timeMonth": 651,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2026-02-26": 1,
       "2026-02-24": 242,
       "2026-02-23": 852,
       "2025-05-16": 7
