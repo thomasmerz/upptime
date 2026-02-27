@@ -43,7 +43,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 152,
+    "timeDay": 159,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 123,
@@ -64,7 +64,7 @@
     "timeDay": 940,
     "timeWeek": 781,
     "timeMonth": 811,
-    "timeYear": 1650,
+    "timeYear": 1652,
     "dailyMinutesDown": {
       "2025-08-05": 19,
       "2025-04-03": 5,
@@ -151,15 +151,15 @@
     "slug": "syncthing-nbg",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "88.98%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.79%",
     "time": 612,
-    "timeDay": 660,
+    "timeDay": 829,
     "timeWeek": 634,
     "timeMonth": 651,
-    "timeYear": 615,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2026-02-26": 17,
       "2026-02-24": 242,
@@ -300,7 +300,7 @@
     "timeDay": 698,
     "timeWeek": 587,
     "timeMonth": 651,
-    "timeYear": 609,
+    "timeYear": 610,
     "dailyMinutesDown": {}
   },
   {
@@ -376,16 +376,18 @@
     "slug": "netdata-nbg",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 657,
-    "timeWeek": 612,
-    "timeMonth": 571,
+    "time": 615,
+    "timeDay": 572,
+    "timeWeek": 596,
+    "timeMonth": 569,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-27": 3
+    }
   },
   {
     "name": "Netdata-HEL",
@@ -533,7 +535,7 @@
     "timeDay": 4750,
     "timeWeek": 1976,
     "timeMonth": 1601,
-    "timeYear": 1661,
+    "timeYear": 1659,
     "dailyMinutesDown": {}
   },
   {
