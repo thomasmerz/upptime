@@ -46,7 +46,7 @@
     "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 138,
-    "timeWeek": 125,
+    "timeWeek": 123,
     "timeMonth": 126,
     "timeYear": 123,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "timeDay": 852,
     "timeWeek": 775,
     "timeMonth": 789,
-    "timeYear": 1651,
+    "timeYear": 1654,
     "dailyMinutesDown": {
       "2026-03-02": 18,
       "2025-08-05": 19,
@@ -157,12 +157,12 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "99.78%",
     "time": 612,
     "timeDay": 678,
-    "timeWeek": 609,
+    "timeWeek": 622,
     "timeMonth": 631,
     "timeYear": 616,
     "dailyMinutesDown": {
@@ -390,7 +390,7 @@
     "timeDay": 1114,
     "timeWeek": 653,
     "timeMonth": 597,
-    "timeYear": 618,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2026-02-27": 3
     }
@@ -626,7 +626,7 @@
     "timeDay": 397,
     "timeWeek": 365,
     "timeMonth": 377,
-    "timeYear": 343,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2025-07-30": 40
     }
@@ -853,12 +853,12 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 929,
-    "timeDay": 224,
+    "timeDay": 210,
     "timeWeek": 233,
     "timeMonth": 448,
     "timeYear": 929,
