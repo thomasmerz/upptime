@@ -13,8 +13,8 @@
     "time": 1513,
     "timeDay": 982,
     "timeWeek": 876,
-    "timeMonth": 868,
-    "timeYear": 1614,
+    "timeMonth": 817,
+    "timeYear": 1615,
     "dailyMinutesDown": {
       "2026-03-26": 1423,
       "2026-03-25": 2880,
@@ -90,7 +90,7 @@
     "timeDay": 908,
     "timeWeek": 785,
     "timeMonth": 741,
-    "timeYear": 1605,
+    "timeYear": 1595,
     "dailyMinutesDown": {
       "2026-03-02": 18,
       "2025-08-05": 19
@@ -111,7 +111,7 @@
     "timeDay": 1060,
     "timeWeek": 920,
     "timeMonth": 911,
-    "timeYear": 1738,
+    "timeYear": 1728,
     "dailyMinutesDown": {
       "2026-03-02": 18
     }
@@ -131,7 +131,7 @@
     "timeDay": 913,
     "timeWeek": 787,
     "timeMonth": 747,
-    "timeYear": 1670,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2026-03-02": 18,
       "2026-01-08": 15,
@@ -155,7 +155,7 @@
     "timeDay": 1086,
     "timeWeek": 1575,
     "timeMonth": 1069,
-    "timeYear": 2064,
+    "timeYear": 2054,
     "dailyMinutesDown": {
       "2026-04-01": 73,
       "2026-02-13": 26,
@@ -327,7 +327,7 @@
     "timeDay": 706,
     "timeWeek": 557,
     "timeMonth": 580,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   },
   {
@@ -345,7 +345,7 @@
     "timeDay": 809,
     "timeWeek": 699,
     "timeMonth": 678,
-    "timeYear": 714,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   },
   {
@@ -430,7 +430,7 @@
     "timeDay": 729,
     "timeWeek": 628,
     "timeMonth": 601,
-    "timeYear": 683,
+    "timeYear": 684,
     "dailyMinutesDown": {}
   },
   {
@@ -496,7 +496,7 @@
     "timeDay": 564,
     "timeWeek": 497,
     "timeMonth": 469,
-    "timeYear": 579,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2025-08-19": 470,
       "2025-08-05": 22,
@@ -594,7 +594,7 @@
     "timeDay": 1314,
     "timeWeek": 1198,
     "timeMonth": 1542,
-    "timeYear": 1472,
+    "timeYear": 1473,
     "dailyMinutesDown": {
       "2026-02-13": 19,
       "2026-01-23": 49,
@@ -642,7 +642,7 @@
     "timeDay": 445,
     "timeWeek": 372,
     "timeMonth": 355,
-    "timeYear": 347,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2025-07-30": 40
     }
@@ -682,7 +682,7 @@
     "timeDay": 449,
     "timeWeek": 384,
     "timeMonth": 364,
-    "timeYear": 340,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2025-07-30": 14,
       "2025-06-23": 9
@@ -753,18 +753,19 @@
     "url": "https://fulda.social",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/refs/heads/master/assets/upload.wikimedia.org-wikipedia-commons-4-48-Mastodon_Logotype_%2528Simple%2529.svg",
     "slug": "mastodon-fulda-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1005,
+    "time": 1004,
     "timeDay": 1026,
     "timeWeek": 864,
     "timeMonth": 866,
-    "timeYear": 1021,
+    "timeYear": 1022,
     "dailyMinutesDown": {
+      "2026-04-03": 2,
       "2026-02-03": 20,
       "2025-12-26": 294,
       "2025-11-14": 36,
@@ -833,7 +834,7 @@
     "timeDay": 1206,
     "timeWeek": 1165,
     "timeMonth": 1044,
-    "timeYear": 1430,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2025-08-25": 124,
       "2025-08-11": 15
