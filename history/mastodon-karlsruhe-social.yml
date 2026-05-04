@@ -1,7 +1,7 @@
 url: https://karlsruhe-social.de
-status: up
-code: 200
-responseTime: 464
-lastUpdated: 2026-05-03T23:13:25.308Z
+status: down
+code: 500
+responseTime: 323
+lastUpdated: 2026-05-04T01:50:26.131Z
 startTime: 2023-06-13T16:24:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
