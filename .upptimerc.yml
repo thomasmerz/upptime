@@ -202,6 +202,16 @@ sites:
   - name: GitLab
     url: https://gitlab.com/explore
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/144_Gitlab_logo_logos-512.png
+  - name: OpenSUSE Repos
+    url: https://download.opensuse.org/distribution/leap/
+  - name: Ubuntu Repos
+    url: http://de.archive.ubuntu.com/ubuntu
+  - name: Ubuntu Repos (Security)
+    url: http://security.ubuntu.com/ubuntu
+  - name: Ubuntu Repos (Backports)
+    url: http://archive.ubuntu.com/ubuntu
+  - name: Ubuntu Repos (ESM)
+    url: https://esm.ubuntu.com/
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
