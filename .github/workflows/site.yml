@@ -16,6 +16,9 @@
 
 name: Static Site CI
 on:
+  push:
+    paths:
+      - "assets/**"
   schedule:
     - cron: "0 0 * * *"
   repository_dispatch:
