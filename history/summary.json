@@ -155,7 +155,7 @@
     "timeDay": 1277,
     "timeWeek": 1937,
     "timeMonth": 1487,
-    "timeYear": 1237,
+    "timeYear": 1238,
     "dailyMinutesDown": {
       "2025-07-04": 28,
       "2025-07-10": 21,
@@ -831,17 +831,17 @@
     "url": "https://github.com/thomasmerz/",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
-    "time": 688,
-    "timeDay": 466,
-    "timeWeek": 511,
-    "timeMonth": 575,
-    "timeYear": 688,
+    "time": 686,
+    "timeDay": 265,
+    "timeWeek": 455,
+    "timeMonth": 560,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2025-08-11": 8,
       "2025-12-20": 34,
@@ -849,7 +849,8 @@
       "2026-03-10": 860,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
-      "2026-03-07": 785
+      "2026-03-07": 785,
+      "2026-06-08": 2
     }
   },
   {
