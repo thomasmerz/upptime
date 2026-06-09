@@ -239,16 +239,16 @@
     "url": "$URL_SYNCTHING_MERZ_NIMBUS_TM",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png",
     "slug": "syncthing-ka-tm",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 967,
-    "timeDay": 2688,
-    "timeWeek": 1190,
-    "timeMonth": 924,
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.90%",
+    "time": 968,
+    "timeDay": 2082,
+    "timeWeek": 1154,
+    "timeMonth": 923,
     "timeYear": 1005,
     "dailyMinutesDown": {
       "2025-07-04": 27,
@@ -262,7 +262,7 @@
       "2026-05-01": 20,
       "2026-05-02": 92,
       "2026-05-07": 39,
-      "2026-06-09": 2
+      "2026-06-09": 41
     }
   },
   {
