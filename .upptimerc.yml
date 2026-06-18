@@ -174,6 +174,15 @@ sites:
     url: $URL_METALHEAD_FSN
     icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/attic.sh-as4wn0y7g7gk8gy2wmkg0hg76137
     __dangerous__insecure: true
+# --- SOME SPECIAL SERVICES
+  - name: Photo-Service-NBG
+    url: $URL_PHOTOS_DE
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/raw.githubusercontent.com-9001-copyparty-hovudstraum-docs-logo.svg
+    __dangerous__insecure: true
+  - name: Japan-2025-NBG
+    url: $URL_JAPAN2025_DE
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/raw.githubusercontent.com-9001-copyparty-hovudstraum-docs-logo.svg
+    __dangerous__insecure: true
 # --- MASTODON
   - name: Mastodon Fulda.social
     url: https://fulda.social
