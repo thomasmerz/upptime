@@ -952,18 +952,20 @@
     "url": "http://security.ubuntu.com/ubuntu",
     "icon": "https://icons.duckduckgo.com/ip3/security.ubuntu.com.ico",
     "slug": "ubuntu-repos-security",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 345,
     "timeDay": 411,
     "timeWeek": 513,
     "timeMonth": 380,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-22": 12
+    }
   },
   {
     "name": "Ubuntu Repos (Backports)",
@@ -971,18 +973,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.ubuntu.com.ico",
     "slug": "ubuntu-repos-backports",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.89%",
     "time": 343,
     "timeDay": 747,
     "timeWeek": 521,
     "timeMonth": 398,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2026-07-22": 2
+      "2026-07-22": 94
     }
   },
   {
