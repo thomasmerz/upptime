@@ -6,15 +6,15 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "92.31%",
+    "uptimeDay": "89.02%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "92.28%",
     "time": 1500,
-    "timeDay": 999,
-    "timeWeek": 1136,
-    "timeMonth": 1163,
-    "timeYear": 1659,
+    "timeDay": 910,
+    "timeWeek": 1076,
+    "timeMonth": 1145,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2025-08-05": 19,
       "2025-08-25": 29,
@@ -52,7 +52,7 @@
       "2026-03-05": 1440,
       "2026-03-04": 590,
       "2026-04-09": 190,
-      "2026-08-02": 0
+      "2026-08-02": 158
     }
   },
   {
