@@ -964,11 +964,11 @@
     "url": "http://archive.ubuntu.com/ubuntu",
     "icon": "https://icons.duckduckgo.com/ip3/archive.ubuntu.com.ico",
     "slug": "ubuntu-repos-backports",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.79%",
     "time": 365,
     "timeDay": 802,
@@ -976,7 +976,8 @@
     "timeMonth": 471,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2026-07-22": 212
+      "2026-07-22": 212,
+      "2026-08-04": 2
     }
   },
   {
