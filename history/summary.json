@@ -944,20 +944,20 @@
     "url": "http://security.ubuntu.com/ubuntu",
     "icon": "https://icons.duckduckgo.com/ip3/security.ubuntu.com.ico",
     "slug": "ubuntu-repos-security",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.87%",
-    "time": 357,
-    "timeDay": 729,
-    "timeWeek": 436,
-    "timeMonth": 418,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.79%",
+    "time": 355,
+    "timeDay": 468,
+    "timeWeek": 407,
+    "timeMonth": 411,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2026-07-22": 129,
-      "2026-08-04": 7
+      "2026-08-04": 86
     }
   },
   {
