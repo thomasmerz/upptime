@@ -464,10 +464,10 @@
     "url": "$URL_NETDATA_KASOCIAL",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/netdata.png",
     "slug": "netdata-karlsruhe-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 488,
@@ -477,7 +477,8 @@
     "timeYear": 487,
     "dailyMinutesDown": {
       "2026-05-02": 195,
-      "2026-05-04": 134
+      "2026-05-04": 134,
+      "2026-08-26": 2
     }
   },
   {
@@ -782,10 +783,10 @@
     "slug": "mastodon-karlsruhe-social",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "83.55%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "75.42%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.81%",
     "time": 564,
     "timeDay": 359,
     "timeWeek": 560,
@@ -796,7 +797,7 @@
       "2025-11-24": 29,
       "2026-05-02": 269,
       "2026-05-04": 314,
-      "2026-08-26": 78,
+      "2026-08-26": 196,
       "2026-08-25": 158
     }
   },
