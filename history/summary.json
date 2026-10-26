@@ -4,17 +4,17 @@
     "url": "$URL_NEXTCLOUD",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/nextcloud_icon.png",
     "slug": "nextcloud",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "93.88%",
-    "time": 1429,
-    "timeDay": 2027,
-    "timeWeek": 1578,
-    "timeMonth": 1416,
-    "timeYear": 1048,
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "93.87%",
+    "time": 1423,
+    "timeDay": 1788,
+    "timeWeek": 1554,
+    "timeMonth": 1413,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2026-01-19": 15,
       "2026-03-03": 112,
@@ -44,7 +44,7 @@
       "2026-04-09": 190,
       "2026-08-02": 158,
       "2026-10-21": 296,
-      "2026-10-26": 1
+      "2026-10-26": 9
     }
   },
   {
