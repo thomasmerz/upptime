@@ -1,7 +1,7 @@
 url: https://gitlab.com/explore
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2026-10-30T02:15:26.311Z
+status: down
+code: 429
+responseTime: 160
+lastUpdated: 2026-10-30T23:41:06.236Z
 startTime: 2025-07-03T14:58:26.155Z
 generator: Upptime <https://github.com/upptime/upptime>
