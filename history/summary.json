@@ -794,16 +794,16 @@
     "url": "https://events.karlsruhe-social.de/",
     "icon": "https://icons.duckduckgo.com/ip3/events.karlsruhe-social.de.ico",
     "slug": "events-karlsruhe-social",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 1007,
-    "timeDay": 935,
-    "timeWeek": 1003,
-    "timeMonth": 1066,
+    "timeDay": 933,
+    "timeWeek": 997,
+    "timeMonth": 1062,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2026-04-09": 99,
@@ -811,7 +811,7 @@
       "2026-06-05": 78,
       "2026-06-11": 90,
       "2026-06-27": 30,
-      "2026-10-30": 2
+      "2026-10-30": 6
     }
   },
   {
