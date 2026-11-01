@@ -538,16 +538,16 @@
     "url": "$URL_SPEEDTEST_V2_MERZ_NIMBUS",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/speedtest-icon-192x192.png",
     "slug": "speedtest-v2-ka",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.61%",
     "time": 1541,
-    "timeDay": 1247,
-    "timeWeek": 1473,
-    "timeMonth": 1607,
+    "timeDay": 1348,
+    "timeWeek": 1470,
+    "timeMonth": 1602,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-11-11": 22,
@@ -556,7 +556,7 @@
       "2026-05-02": 37,
       "2026-07-10": 802,
       "2026-07-09": 1127,
-      "2026-11-01": 2
+      "2026-11-01": 9
     }
   },
   {
