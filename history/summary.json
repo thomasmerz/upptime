@@ -756,7 +756,7 @@
     "timeDay": 1068,
     "timeWeek": 958,
     "timeMonth": 1011,
-    "timeYear": 996,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2025-11-14": 36,
       "2025-12-26": 294,
@@ -864,21 +864,22 @@
     "url": "https://gitlab.com/explore",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/144_Gitlab_logo_logos-512.png",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 591,
-    "timeDay": 220,
-    "timeWeek": 181,
-    "timeMonth": 195,
-    "timeYear": 475,
+    "time": 590,
+    "timeDay": 181,
+    "timeWeek": 176,
+    "timeMonth": 194,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2025-12-05": 25,
       "2026-03-04": 19,
-      "2026-03-06": 33
+      "2026-03-06": 33,
+      "2026-11-07": 2
     }
   },
   {
