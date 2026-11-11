@@ -215,12 +215,16 @@ sites:
     url: https://download.opensuse.org/distribution/leap/
   - name: Ubuntu Repos
     url: http://de.archive.ubuntu.com/ubuntu
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/logo_ubuntu_22359.webp
   - name: Ubuntu Repos (Security)
     url: http://security.ubuntu.com/ubuntu
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/logo_ubuntu_22359.webp
   - name: Ubuntu Repos (Backports)
     url: http://archive.ubuntu.com/ubuntu
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/logo_ubuntu_22359.webp
   - name: Ubuntu Repos (ESM)
     url: https://esm.ubuntu.com/
+    icon: https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/logo_ubuntu_22359.webp
 # --- MYPDNS-GITLAB
 #  - name: My Privacy DNS
 #    url: https://mypdns.org/-/liveness?token=8QTcgMMaEQgzGtdxwPui
