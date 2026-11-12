@@ -14,7 +14,7 @@
     "timeDay": 1085,
     "timeWeek": 1236,
     "timeMonth": 1394,
-    "timeYear": 1066,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2026-01-19": 15,
       "2026-03-03": 112,
@@ -222,17 +222,17 @@
     "url": "$URL_SYNCTHING_MERZ_NIMBUS_TM",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png",
     "slug": "syncthing-ka-tm",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
-    "time": 948,
-    "timeDay": 726,
-    "timeWeek": 779,
-    "timeMonth": 854,
-    "timeYear": 973,
+    "time": 998,
+    "timeDay": 10322,
+    "timeWeek": 3972,
+    "timeMonth": 1722,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-11-13": 44,
       "2026-01-23": 51,
@@ -241,7 +241,8 @@
       "2026-05-01": 20,
       "2026-05-02": 92,
       "2026-05-07": 39,
-      "2026-06-09": 41
+      "2026-06-09": 41,
+      "2026-11-12": 4
     }
   },
   {
@@ -249,24 +250,25 @@
     "url": "$URL_SYNCTHING_MERZ_NIMBUS_BI",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png",
     "slug": "syncthing-ka-bi",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
-    "time": 903,
-    "timeDay": 654,
-    "timeWeek": 771,
-    "timeMonth": 808,
-    "timeYear": 960,
+    "time": 951,
+    "timeDay": 9915,
+    "timeWeek": 3845,
+    "timeMonth": 1646,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2025-11-13": 43,
       "2026-01-23": 51,
       "2026-02-13": 19,
       "2026-04-01": 72,
       "2026-05-02": 140,
-      "2026-05-01": 8
+      "2026-05-01": 8,
+      "2026-11-12": 3
     }
   },
   {
@@ -338,7 +340,7 @@
     "timeDay": 479,
     "timeWeek": 564,
     "timeMonth": 545,
-    "timeYear": 546,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   },
   {
@@ -378,7 +380,7 @@
     "timeDay": 616,
     "timeWeek": 705,
     "timeMonth": 685,
-    "timeYear": 597,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2026-02-27": 3
     }
@@ -648,7 +650,7 @@
     "timeDay": 340,
     "timeWeek": 404,
     "timeMonth": 391,
-    "timeYear": 378,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2026-05-11": 243,
       "2026-06-22": 28
@@ -867,7 +869,7 @@
     "timeDay": 185,
     "timeWeek": 184,
     "timeMonth": 192,
-    "timeYear": 462,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2025-12-05": 25,
       "2026-03-04": 19,
