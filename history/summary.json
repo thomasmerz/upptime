@@ -222,16 +222,16 @@
     "url": "$URL_SYNCTHING_MERZ_NIMBUS_TM",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png",
     "slug": "syncthing-ka-tm",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.92%",
     "time": 998,
-    "timeDay": 10322,
-    "timeWeek": 3972,
-    "timeMonth": 1722,
+    "timeDay": 7989,
+    "timeWeek": 3674,
+    "timeMonth": 1701,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-11-13": 44,
@@ -242,7 +242,7 @@
       "2026-05-02": 92,
       "2026-05-07": 39,
       "2026-06-09": 41,
-      "2026-11-12": 4
+      "2026-11-12": 9
     }
   },
   {
@@ -252,10 +252,10 @@
     "slug": "syncthing-ka-bi",
     "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.93%",
     "time": 951,
     "timeDay": 9915,
     "timeWeek": 3845,
@@ -268,7 +268,7 @@
       "2026-04-01": 72,
       "2026-05-02": 140,
       "2026-05-01": 8,
-      "2026-11-12": 3
+      "2026-11-12": 11
     }
   },
   {
