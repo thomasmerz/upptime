@@ -855,22 +855,22 @@
     "url": "https://gitlab.com/explore",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/144_Gitlab_logo_logos-512.png",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 566,
-    "timeDay": 162,
-    "timeWeek": 181,
+    "time": 565,
+    "timeDay": 156,
+    "timeWeek": 179,
     "timeMonth": 186,
-    "timeYear": 447,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-12-05": 25,
       "2026-03-04": 19,
       "2026-03-06": 33,
-      "2026-11-17": 3
+      "2026-11-17": 10
     }
   },
   {
