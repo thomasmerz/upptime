@@ -157,16 +157,16 @@
     "url": "$URL_SYNCTHING_HETZNER_CLOUDSERVER_DE",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/syncthing.net-img-favicons-favicon-32x32.png",
     "slug": "syncthing-nbg",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 637,
-    "timeDay": 3462,
-    "timeWeek": 1273,
-    "timeMonth": 822,
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.77%",
+    "time": 638,
+    "timeDay": 2559,
+    "timeWeek": 1222,
+    "timeMonth": 820,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2026-02-24": 242,
@@ -174,7 +174,7 @@
       "2026-02-26": 17,
       "2026-03-02": 16,
       "2026-03-11": 48,
-      "2026-11-18": 1
+      "2026-11-18": 9
     }
   },
   {
