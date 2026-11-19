@@ -914,22 +914,22 @@
     "url": "http://security.ubuntu.com/ubuntu",
     "icon": "https://raw.githubusercontent.com/thomasmerz/upptime/master/assets/logo_ubuntu_22359.webp",
     "slug": "ubuntu-repos-security",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.84%",
-    "time": 524,
-    "timeDay": 163,
-    "timeWeek": 458,
-    "timeMonth": 945,
-    "timeYear": 524,
+    "time": 818,
+    "timeDay": 27979,
+    "timeWeek": 7375,
+    "timeMonth": 2512,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2026-07-22": 129,
       "2026-08-04": 86,
       "2026-11-11": 180,
-      "2026-11-19": 9
+      "2026-11-19": 16
     }
   },
   {
