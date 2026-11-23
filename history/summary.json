@@ -829,16 +829,16 @@
     "url": "https://github.com/thomasmerz/",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.09%",
     "time": 699,
-    "timeDay": 460,
-    "timeWeek": 572,
-    "timeMonth": 731,
+    "timeDay": 587,
+    "timeWeek": 590,
+    "timeMonth": 730,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2025-12-20": 34,
@@ -848,7 +848,7 @@
       "2026-03-08": 1440,
       "2026-03-07": 785,
       "2026-06-08": 197,
-      "2026-11-23": 2
+      "2026-11-23": 3
     }
   },
   {
